@@ -1,0 +1,11 @@
+you can convert and resize the file in Cygwin with the following command:
+
+convert matrix.jpg -resize '165x218!' -quality 100 matrix.png
+
+this assumes that you have properly installed ImageMagick to Cygwin
+the ! option is not default, so you have to specify it
+what it does is ignores the aspect ratio so that the resize yields the *exact* pixel dimensions rather than an aspect ratio preserving approximation
+-while this may stretch or squash some images, we actually need the images to conform to exact dimensions on our player
+ in either case, there will still be a human quality check required to verify image quality and that it's for the intended show and not a same/similarly named different show
+note - the resize string needs the quotes so it interprets the ! in the parameter string correctly
+we use -quality 100 because we prefer to optimize best image quality jpg over lossy file compression

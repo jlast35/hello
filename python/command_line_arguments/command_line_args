@@ -1,0 +1,12 @@
+#!/usr/bin/env python
+#really, if you want to be able to execute the file as a command,
+#you either need to put each specific directory a command appears in in the PATH variable
+#or else create a symlink to each executable command and put them all in a folder that IS in the path
+#if you want to run the command without the extension, sorry - Cygwin doesn't support that
+#you would have to write the filename itself without an extension an then use the #! line to tell it how to execute
+
+import sys
+print sys.argv
+
+for arg in sys.argv:
+    print arg

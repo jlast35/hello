@@ -1,0 +1,21 @@
+this should probably be redone for simplicity
+-the run_windows_command example morphed into an attempt to use Windows paint.NET bulk converter addon to resize an image as part of the collateral getter project
+-the functionality (and dependency on paint.Net bulk converter which turned out not to work so well for our needs) was scrapped in favor of using image_magick to resize images
+
+there is a difference between 
+running Python scripts in Windows 
+vs 
+running Python scripts in Cygwin
+
+*especially if you start using things like OS specific shell calls (command prompt stuff) in your scripts.
+
+so you have to answer the question:
+which environment does this script need to be run on?
+will it work cross-platform, or have you inadvertently tied it to a specific platform by calling OS specific functions?
+
+is it better to write a bash script for a sequence of python and linux commands to execute in a specific order?
+if you do it all in the python, that script becomes linux-bound and won't work properly in windows...
+so what do you do? create a separate version of the code specific to each OS it might be used on?
+
+i mean, it gets to the point where other users simply can't run it 
+unless they specifically have the same OS and all the necessary software stack, same version, etc...

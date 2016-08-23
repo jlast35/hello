@@ -1,0 +1,22 @@
+known issues
+-------------
+I have an unknown amount of possible text lines (it could vary, but usually doesn't) each with potentially different font sizes varying per player/airline... update textbox may not work because it is unknown how many textboxes will be needed from one synopsis to the next...
+you also can't *just* destroy an individual control and re-populate it.. you have to destroy the whole gui and recreate it...
+well... maybe that's what I have to do any time the synopsis text changes... ALL BECAUSE THERE IS NO HTML / RTF CONTROL IN AHK!!!
+...so, if we have to re-create the gui on synopsis update, we need to maintain the state of everything else (dropdown list selections) on re-creation
+
+This does not currently mirror an actual player's menu structure - just the collateral screens for everything it can find a synopsis text file for in the folder
+-it depends on player integration to be at the stage where their text and image files have been created and put in the expected integration folders 
+the L10 layout is not correct - this sets everything up as though it were an L7
+-the collateral image and text size is also wrong for L10
+XT players (Garuda) also do not display properly
+
+v2
+--
+Re-positioned layout of L7 GUI elements to more closely match a real L7
+Added a dropdown for language subfolders that is generated on the fly to allow language selection
+-version 1 could only find collateral for a player if it was sppecifically in the \eng subfolder
+Text box now handles the & character correctly
+Poster images are now located more reliably 
+-according to the name mangling convention for multiples of the same series or movie by appending count digits to the end of filename
+The <br/> character in Eng/Arabic and Eng/French synopsis text (Gulf Air, Ethiopia) now create the intended line break, starting the foreign synopsis on the next line

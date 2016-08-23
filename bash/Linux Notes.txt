@@ -1,0 +1,24 @@
+There is a difference between what can be meant by "home"
+The home directory / your home directory / the directory named "home"
+
+There is a concept of a "Home Directory" for a given user.
+In Windows, it turns out to be that the "Home Directory" for a given user is "C:\Users\Whatever_your_Username_is"
+In Linux, Cygwin starts with the command prompt at "~" which is actually the "Home Directory" for the current user - in my case, it is "/home/Jason"
+
+There may be a directory or folder explicitly called "home", and you may think of this as the "home" directory or folder, or the folder or directory explicitly named "home", but this is NOT (necessarily) the same thing as the concept called "Home Directory"... Ambiguous, right?  Leads to vagueness and miscommunication too... SO - please be clear so as to disambiguate perfectly what you mean when you talk about it.
+
+find -print0|xargs -0 file|grep -v "165 x 218"
+this works
+
+find . -name "*.png" -print0|xargs -0 file|grep -v "165 x 218"
+this works also
+
+alias nullify="tr '\n' '\000'" # Convert line endings to null for use with xargs --null.
+
+f|g .png$|nullify|x -0 file|g -v "165 x 218"
+
+using Jeff's nullify alias, you can now "prep the grep" for xarg
+(convert files with whitespace to null terminated strings) for xarg -0 to be able to process
+
+f "/home/Jason/Dropbox/Content Share/Library-Graphics_ready/interface"|g .png|nullify|x -0 file|g -v "165 x 218"
+if you use ~ in the quoted path, it won't expand.

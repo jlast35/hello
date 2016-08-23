@@ -1,0 +1,38 @@
+requires 
+pip install python-Levenshtein
+pip install fuzzywuzzy
+
+in order to get these to run,
+
+
+Cygwin:
+make sure you have pip, and that when called from Cygwin, it runs on Cygwin's Python, not Windows' Pyhthon installation
+ie: if "which pip" on the Cygwin command line does not return "/usr/bin/pip" then pip is going to install to some place other than Cygwin (most likely to your Windows' Python)
+if this is the case, you'll need to install pip as follows:
+download get-pip.py
+python get-pip.py
+
+If after successfully installing python-Levenshtein or fuzzywuzzy, you still cannot import the module (make sure you spell Levenshtein correctly),
+then you probably had pip installing to the Windows' Python (check "which pip" on the Cygwin command line)
+
+
+Windows:
+python-Levenshtein requires pip to be able to find a C++ compiler to compile its un-compiled C++ code parts
+this works fine on Cygwin/Linux because it just uses the one in /usr/bin,
+but Windows does not have a C++ compiler that it can access out of the box, so, you have to install one
+specifically, on Windows, pip will try to find the same version of Visual C++ compiler (2008) that your version of Python (2.7 in our case) was compiled with
+fortunately, if all you need is a C++ compiler for installing 3rd party Python libraries that reference un-compiled C++ code, 
+you don't need to install the entire bloated Visual Studio 2008 express just to get a 64 bit version of VC++2008 compiler or even install and configure VC++2008
+Microsoft actually released a special bare-bones pre-configured light-weight installation of VC++2008 specifically for Python 2.7 for people who need to address just this issue.
+just download and run the Windows installer file: 
+VCForPython27.msi
+...and don't forget to restart your computer when you're done! 
+otherwise pip might not be able to see your newly-installed VC compiler in the system registry and may behave as though VC is not installed on your machine until you reboot
+
+HOWEVER - unless you have setuptools 6.0.2 or greater installed, it will still not work. 
+to install setuptools 6.0.2, download it, unzip it, then from the folder that has setup.py,
+python setup.py install
+
+If you're still getting an error like "Unable to find vcvarsall.bat" from pip on attempting to installing your Python library at the Windows command prompt,
+then either you did not install VCForPython27.msi, or did not reboot your computer, or did not update your setuptools to 6.0.2 or greater.
+

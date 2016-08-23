@@ -1,0 +1,1312 @@
+Digemenu:  Tue Sep  3 05:01:03 2013: Starting digemenu version 2
+Digemenu:  Tue Sep  3 05:01:12 2013: Starting main menu Main Menu
+Digemenu:  Tue Sep  3 05:01:15 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Tue Sep  3 05:01:18 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Tue Sep  3 05:01:18 2013: Detailing item Monsters University
+Digemenu:  Tue Sep  3 05:01:31 2013: executing command play_video -t "Monsters University" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/MonstersUniversity_ENGLSP.mkv
+Digemenu:  Tue Sep  3 16:50:35 2013: Starting digemenu version 2
+Digemenu:  Tue Sep  3 16:50:44 2013: Starting main menu Main Menu
+Digemenu:  Tue Sep  3 18:55:53 2013: Starting digemenu version 2
+Digemenu:  Tue Sep  3 18:56:02 2013: Starting main menu Main Menu
+Digemenu:  Tue Sep  3 18:57:00 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Tue Sep  3 18:57:05 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Tue Sep  3 18:57:05 2013: Detailing item The Great Gatsby
+Digemenu:  Tue Sep  3 18:57:07 2013: Detailing item The Internship
+Digemenu:  Tue Sep  3 18:58:45 2013: executing command play_video -t "The Internship" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/TheInternship-TH_ENGLSP.mkv
+Digemenu:  Tue Sep  3 20:49:26 2013: Shutting down player!
+Digemenu:  Thu Sep  5 23:52:02 2013: Starting digemenu version 2
+Digemenu:  Thu Sep  5 23:52:11 2013: Starting main menu Main Menu
+Digemenu:  Thu Sep  5 23:52:17 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Thu Sep  5 23:52:32 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Thu Sep  5 23:52:32 2013: Detailing item Epic
+Digemenu:  Thu Sep  5 23:52:34 2013: Detailing item 42
+Digemenu:  Thu Sep  5 23:52:38 2013: Detailing item The East
+Digemenu:  Thu Sep  5 23:52:51 2013: Detailing item The Internship
+Digemenu:  Thu Sep  5 23:52:58 2013: Detailing item The Great Gatsby
+Digemenu:  Thu Sep  5 23:53:00 2013: Detailing item Monsters University
+Digemenu:  Thu Sep  5 23:53:05 2013: Starting menu Favorite Classic Movies
+Digemenu:  Thu Sep  5 23:53:07 2013: Starting menu All Time Favorites
+Digemenu:  Thu Sep  5 23:53:12 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Thu Sep  5 23:53:12 2013: Detailing item Argo
+Digemenu:  Thu Sep  5 23:53:16 2013: Detailing item Avatar
+Digemenu:  Thu Sep  5 23:53:18 2013: Detailing item Argo
+Digemenu:  Thu Sep  5 23:53:20 2013: Detailing item A Good Day to Die Hard
+Digemenu:  Thu Sep  5 23:53:24 2013: Detailing item Argo
+Digemenu:  Thu Sep  5 23:53:28 2013: Detailing item Avatar
+Digemenu:  Thu Sep  5 23:53:30 2013: Starting menu All Time Favorites
+Digemenu:  Thu Sep  5 23:53:32 2013: Starting menu Favorite Classic Movies
+Digemenu:  Thu Sep  5 23:53:36 2013: Starting menu Oldies but Goodies
+Digemenu:  Thu Sep  5 23:53:43 2013: Starting menu Favorite Classic Movies
+Digemenu:  Thu Sep  5 23:53:45 2013: Returned to main menu Main Menu
+Digemenu:  Thu Sep  5 23:53:58 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Thu Sep  5 23:54:01 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Thu Sep  5 23:54:01 2013: Detailing item The Internship
+Digemenu:  Thu Sep  5 23:54:04 2013: Detailing item The Great Gatsby
+Digemenu:  Thu Sep  5 23:54:05 2013: Detailing item Monsters University
+Digemenu:  Thu Sep  5 23:54:07 2013: Detailing item The Great Gatsby
+Digemenu:  Thu Sep  5 23:54:08 2013: Detailing item The Internship
+Digemenu:  Thu Sep  5 23:54:09 2013: Detailing item The East
+Digemenu:  Thu Sep  5 23:54:32 2013: Detailing item 42
+Digemenu:  Thu Sep  5 23:54:34 2013: Detailing item Epic
+Digemenu:  Thu Sep  5 23:54:39 2013: Detailing item 42
+Digemenu:  Thu Sep  5 23:54:41 2013: Detailing item The East
+Digemenu:  Thu Sep  5 23:54:47 2013: executing command play_video -t "The East" /content/ads/MISSINGAD /content/videos/TheEastTH_ENGRUS.mkv
+Digemenu:  Fri Sep  6 01:46:42 2013: returning from command play_video -t "The East" /content/ads/MISSINGAD /content/videos/TheEastTH_ENGRUS.mkv
+Digemenu:  Fri Sep  6 01:46:42 2013: exitCode == 0
+Digemenu:  Fri Sep  6 01:46:43 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Fri Sep  6 01:46:46 2013: Returned to main menu Main Menu
+Digemenu:  Fri Sep  6 01:46:49 2013: Starting menu TV Shows
+Digemenu:  Fri Sep  6 01:47:10 2013: Returned to main menu Main Menu
+Digemenu:  Fri Sep  6 01:47:23 2013: executing command stopwifi.sh
+Digemenu:  Fri Sep  6 01:47:24 2013: returning from command stopwifi.sh
+Digemenu:  Fri Sep  6 01:47:24 2013: exitCode == 0
+Digemenu:  Fri Sep  6 01:47:24 2013: executing command !startwifi /content/menu/images/BrowserWarning.png
+Digemenu:  Fri Sep  6 01:48:07 2013: Shutting down player!
+Digemenu:  Fri Sep  6 20:24:26 2013: Starting digemenu version 2
+Digemenu:  Fri Sep  6 20:24:35 2013: Starting main menu Main Menu
+Digemenu:  Fri Sep  6 20:32:45 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Fri Sep  6 20:33:00 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Fri Sep  6 20:33:00 2013: Detailing item The Internship
+Digemenu:  Fri Sep  6 20:33:08 2013: executing command play_video -t "The Internship" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/TheInternship-TH_ENGLSP.mkv
+Digemenu:  Fri Sep  6 22:30:03 2013: returning from command play_video -t "The Internship" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/TheInternship-TH_ENGLSP.mkv
+Digemenu:  Fri Sep  6 22:30:03 2013: exitCode != 0
+Digemenu:  Fri Sep  6 22:30:03 2013: exitCode == RETURN_TO_HOME
+Digemenu:  Fri Sep  6 22:30:04 2013: Returned to main menu Main Menu
+Digemenu:  Fri Sep  6 22:30:05 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Fri Sep  6 22:30:09 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Fri Sep  6 22:30:09 2013: Detailing item The Great Gatsby
+Digemenu:  Fri Sep  6 22:30:18 2013: executing command play_video    -f DejaVuSans:16 -t "The Great Gatsby" /content/ads/ASA-BankOfAmerica-30sec_ENG.mkv /content/videos/TheGreatGatsby-ED_ENG_eng.mkv
+Digemenu:  Fri Sep  6 23:10:24 2013: returning from command play_video    -f DejaVuSans:16 -t "The Great Gatsby" /content/ads/ASA-BankOfAmerica-30sec_ENG.mkv /content/videos/TheGreatGatsby-ED_ENG_eng.mkv
+Digemenu:  Fri Sep  6 23:10:24 2013: exitCode != 0
+Digemenu:  Fri Sep  6 23:10:24 2013: exitCode == RETURN_TO_HOME
+Digemenu:  Fri Sep  6 23:10:24 2013: Returned to main menu Main Menu
+Digemenu:  Sat Sep  7 01:08:53 2013: Starting digemenu version 2
+Digemenu:  Sat Sep  7 01:09:02 2013: Starting main menu Main Menu
+Digemenu:  Sat Sep  7 01:12:02 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Sat Sep  7 01:12:46 2013: Starting menu Independent Films
+Digemenu:  Sat Sep  7 01:13:03 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Sat Sep  7 01:13:08 2013: Starting menu Favorite Classic Movies
+Digemenu:  Sat Sep  7 01:13:10 2013: Starting menu All Time Favorites
+Digemenu:  Sat Sep  7 01:13:19 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Sat Sep  7 01:13:19 2013: Detailing item Avatar
+Digemenu:  Sat Sep  7 01:13:21 2013: Detailing item Argo
+Digemenu:  Sat Sep  7 01:13:24 2013: Detailing item A Good Day to Die Hard
+Digemenu:  Sat Sep  7 01:13:28 2013: Detailing item Argo
+Digemenu:  Sat Sep  7 01:13:29 2013: Detailing item Avatar
+Digemenu:  Sat Sep  7 01:13:30 2013: Detailing item Beasts of the Southern Wild
+Digemenu:  Sat Sep  7 01:13:31 2013: Detailing item Best Exotic Marigold Hotel
+Digemenu:  Sat Sep  7 01:13:34 2013: Detailing item Black Swan
+Digemenu:  Sat Sep  7 01:13:38 2013: Detailing item Born To Be Wild
+Digemenu:  Sat Sep  7 01:13:40 2013: Detailing item Broken City
+Digemenu:  Sat Sep  7 01:13:41 2013: Detailing item Charlie and the Chocolate Factory
+Digemenu:  Sat Sep  7 01:13:43 2013: Detailing item Chasing Mavericks
+Digemenu:  Sat Sep  7 01:13:45 2013: Detailing item Clash of the Titans
+Digemenu:  Sat Sep  7 01:13:47 2013: Detailing item Crazy, Stupid, Love.
+Digemenu:  Sat Sep  7 01:13:56 2013: Detailing item Dark Shadows
+Digemenu:  Sat Sep  7 01:13:58 2013: Detailing item Date Night
+Digemenu:  Sat Sep  7 01:14:01 2013: Detailing item Diary of a Wimpy Kid: Dog Days
+Digemenu:  Sat Sep  7 01:14:03 2013: Detailing item Dolphin Tale
+Digemenu:  Sat Sep  7 01:14:05 2013: Detailing item Due Date
+Digemenu:  Sat Sep  7 01:14:06 2013: Detailing item Firehouse Dog
+Digemenu:  Sat Sep  7 01:14:08 2013: Detailing item Green Lantern
+Digemenu:  Sat Sep  7 01:14:10 2013: Detailing item Gulliver's Travels
+Digemenu:  Sat Sep  7 01:14:20 2013: Returned to main menu Main Menu
+Digemenu:  Sat Sep  7 01:14:21 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Sat Sep  7 01:14:27 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Sat Sep  7 01:14:27 2013: Detailing item 42
+Digemenu:  Sat Sep  7 01:14:49 2013: executing command play_video  -u 0  -f DejaVuSans:16 -t "42" /content/ads/UWYouthConcussions30s_ENG.mkv /content/videos/42_ENG_eng.mkv
+Digemenu:  Sat Sep  7 03:19:03 2013: Shutting down player!
+Digemenu:  Sat Sep  7 21:03:55 2013: Starting digemenu version 2
+Digemenu:  Sat Sep  7 21:04:04 2013: Starting main menu Main Menu
+Digemenu:  Sat Sep  7 21:06:49 2013: Starting menu Favorite Classic Movies
+Digemenu:  Sat Sep  7 21:06:52 2013: Starting menu All Time Favorites
+Digemenu:  Sat Sep  7 21:09:09 2013: Starting menu Favorite Classic Movies
+Digemenu:  Sat Sep  7 21:09:12 2013: Starting menu Oldies but Goodies
+Digemenu:  Sat Sep  7 21:09:20 2013: Starting menu Favorite Classic Movies
+Digemenu:  Sat Sep  7 21:09:23 2013: Returned to main menu Main Menu
+Digemenu:  Sat Sep  7 21:09:24 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Sat Sep  7 21:09:29 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Sat Sep  7 21:09:29 2013: Detailing item Epic
+Digemenu:  Sat Sep  7 21:09:34 2013: executing command play_video -t "Epic" /content/videos/Epic_ENG.mkv
+Digemenu:  Sat Sep  7 21:10:26 2013: returning from command play_video -t "Epic" /content/videos/Epic_ENG.mkv
+Digemenu:  Sat Sep  7 21:10:26 2013: exitCode == 0
+Digemenu:  Sat Sep  7 21:10:27 2013: executing command play_video -t "Epic" /content/videos/Epic_ENG.mkv
+Digemenu:  Sat Sep  7 21:17:15 2013: returning from command play_video -t "Epic" /content/videos/Epic_ENG.mkv
+Digemenu:  Sat Sep  7 21:17:15 2013: exitCode != 0
+Digemenu:  Sat Sep  7 21:17:15 2013: exitCode == RETURN_TO_HOME
+Digemenu:  Sat Sep  7 21:17:15 2013: Returned to main menu Main Menu
+Digemenu:  Sat Sep  7 21:17:17 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Sat Sep  7 21:17:23 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Sat Sep  7 21:17:23 2013: Detailing item Epic
+Digemenu:  Sat Sep  7 21:17:24 2013: executing command play_video -t "Epic" /content/videos/Epic_ENG.mkv
+Digemenu:  Sat Sep  7 21:18:13 2013: returning from command play_video -t "Epic" /content/videos/Epic_ENG.mkv
+Digemenu:  Sat Sep  7 21:18:13 2013: exitCode != 0
+Digemenu:  Sat Sep  7 21:18:13 2013: exitCode == RETURN_TO_HOME
+Digemenu:  Sat Sep  7 21:18:13 2013: Returned to main menu Main Menu
+Digemenu:  Sat Sep  7 21:18:15 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Sat Sep  7 21:18:19 2013: Starting menu Independent Films
+Digemenu:  Sat Sep  7 21:18:25 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Sat Sep  7 21:18:31 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Sat Sep  7 21:18:31 2013: Detailing item Epic
+Digemenu:  Sat Sep  7 21:18:32 2013: executing command play_video -t "Epic" /content/videos/Epic_ENG.mkv
+Digemenu:  Sat Sep  7 21:41:28 2013: returning from command play_video -t "Epic" /content/videos/Epic_ENG.mkv
+Digemenu:  Sat Sep  7 21:41:28 2013: exitCode == 0
+Digemenu:  Sat Sep  7 21:41:29 2013: executing command play_video -t "Epic" /content/videos/Epic_ENG.mkv
+Digemenu:  Sat Sep  7 21:50:58 2013: returning from command play_video -t "Epic" /content/videos/Epic_ENG.mkv
+Digemenu:  Sat Sep  7 21:50:58 2013: exitCode == 0
+Digemenu:  Sat Sep  7 21:51:08 2013: executing command play_video -t "Epic" /content/videos/Epic_ENG.mkv
+Digemenu:  Sat Sep  7 22:47:28 2013: Starting digemenu version 2
+Digemenu:  Sat Sep  7 22:47:36 2013: Starting main menu Main Menu
+Digemenu:  Sat Sep  7 22:47:40 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Sat Sep  7 22:47:50 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Sat Sep  7 22:47:50 2013: Detailing item The East
+Digemenu:  Sat Sep  7 22:47:57 2013: executing command play_video -t "The East" /content/ads/MISSINGAD /content/videos/TheEastTH_ENGRUS.mkv
+Digemenu:  Sat Sep  7 22:48:55 2013: returning from command play_video -t "The East" /content/ads/MISSINGAD /content/videos/TheEastTH_ENGRUS.mkv
+Digemenu:  Sat Sep  7 22:48:55 2013: exitCode == 0
+Digemenu:  Sat Sep  7 22:48:58 2013: executing command play_video -t "The East" /content/ads/MISSINGAD /content/videos/TheEastTH_ENGRUS.mkv
+Digemenu:  Sat Sep  7 22:51:00 2013: returning from command play_video -t "The East" /content/ads/MISSINGAD /content/videos/TheEastTH_ENGRUS.mkv
+Digemenu:  Sat Sep  7 22:51:00 2013: exitCode == 0
+Digemenu:  Sat Sep  7 22:51:08 2013: executing command play_video -t "The East" /content/ads/MISSINGAD /content/videos/TheEastTH_ENGRUS.mkv
+Digemenu:  Sat Sep  7 23:52:59 2013: Shutting down player!
+Digemenu:  Sat Sep  7 23:53:01 2013: returning from command play_video -t "The East" /content/ads/MISSINGAD /content/videos/TheEastTH_ENGRUS.mkv
+Digemenu:  Sat Sep  7 23:53:01 2013: exitCode == 0
+Digemenu:  Sat Sep  7 23:53:54 2013: Starting digemenu version 2
+Digemenu:  Sat Sep  7 23:54:03 2013: Starting main menu Main Menu
+Digemenu:  Sat Sep  7 23:54:09 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Sat Sep  7 23:54:15 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Sat Sep  7 23:54:15 2013: Detailing item The East
+Digemenu:  Sat Sep  7 23:54:20 2013: executing command play_video -t "The East" /content/ads/MISSINGAD /content/videos/TheEastTH_ENGRUS.mkv
+Digemenu:  Sat Sep  7 23:59:08 2013: Shutting down player!
+Digemenu:  Mon Sep  9 05:50:53 2013: Starting digemenu version 2
+Digemenu:  Mon Sep  9 05:51:02 2013: Starting main menu Main Menu
+Digemenu:  Mon Sep  9 05:55:35 2013: Starting menu Travel and Food
+Digemenu:  Mon Sep  9 05:58:37 2013: Returned to main menu Main Menu
+Digemenu:  Mon Sep  9 05:58:54 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Mon Sep  9 05:59:10 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Mon Sep  9 05:59:10 2013: Detailing item Epic
+Digemenu:  Mon Sep  9 05:59:15 2013: Detailing item 42
+Digemenu:  Mon Sep  9 05:59:19 2013: Detailing item Epic
+Digemenu:  Mon Sep  9 05:59:26 2013: Detailing item 42
+Digemenu:  Mon Sep  9 05:59:28 2013: Detailing item Epic
+Digemenu:  Mon Sep  9 05:59:32 2013: Detailing item 42
+Digemenu:  Mon Sep  9 05:59:34 2013: Detailing item The East
+Digemenu:  Mon Sep  9 05:59:47 2013: Detailing item The Internship
+Digemenu:  Mon Sep  9 05:59:48 2013: Detailing item The Great Gatsby
+Digemenu:  Mon Sep  9 05:59:51 2013: Detailing item The Internship
+Digemenu:  Mon Sep  9 06:00:09 2013: executing command play_video -t "The Internship" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/TheInternship-TH_ENGLSP.mkv
+Digemenu:  Mon Sep  9 06:28:08 2013: returning from command play_video -t "The Internship" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/TheInternship-TH_ENGLSP.mkv
+Digemenu:  Mon Sep  9 06:28:09 2013: exitCode != 0
+Digemenu:  Mon Sep  9 06:28:09 2013: exitCode == RETURN_TO_HOME
+Digemenu:  Mon Sep  9 06:28:09 2013: Returned to main menu Main Menu
+Digemenu:  Mon Sep  9 06:28:22 2013: Starting menu Music Videos
+Digemenu:  Mon Sep  9 06:28:35 2013: executing command play_video -t "Bridgit Mendler	Ready or Not" /content/musicvideos/BridgitMendler-ReadyOrNot_ENG.mkv
+Digemenu:  Mon Sep  9 06:32:10 2013: returning from command play_video -t "Bridgit Mendler	Ready or Not" /content/musicvideos/BridgitMendler-ReadyOrNot_ENG.mkv
+Digemenu:  Mon Sep  9 06:32:10 2013: exitCode == 0
+Digemenu:  Mon Sep  9 06:32:28 2013: executing command play_video -t "John Mayer	Queen of California" /content/musicvideos/JohnMayer-QueenOfCalifornia_ENG.mkv
+Digemenu:  Mon Sep  9 06:37:03 2013: returning from command play_video -t "John Mayer	Queen of California" /content/musicvideos/JohnMayer-QueenOfCalifornia_ENG.mkv
+Digemenu:  Mon Sep  9 06:37:03 2013: exitCode == 0
+Digemenu:  Mon Sep  9 06:37:15 2013: executing command play_video -t "Laura Marling	All My Rage" /content/musicvideos/LauraMarling-AllMyRage_ENG.mkv
+Digemenu:  Mon Sep  9 06:40:21 2013: returning from command play_video -t "Laura Marling	All My Rage" /content/musicvideos/LauraMarling-AllMyRage_ENG.mkv
+Digemenu:  Mon Sep  9 06:40:21 2013: exitCode == 0
+Digemenu:  Mon Sep  9 06:40:28 2013: executing command play_video -t "Leona Lewis	Trouble" /content/musicvideos/LeonaLewis-Trouble_ENG.mkv
+Digemenu:  Mon Sep  9 06:44:12 2013: returning from command play_video -t "Leona Lewis	Trouble" /content/musicvideos/LeonaLewis-Trouble_ENG.mkv
+Digemenu:  Mon Sep  9 06:44:12 2013: exitCode == 0
+Digemenu:  Mon Sep  9 06:44:32 2013: executing command play_video -t "Maroon 5	One More Night" /content/musicvideos/Maroon5-OneMoreNight_ENG.mkv
+Digemenu:  Mon Sep  9 06:48:15 2013: returning from command play_video -t "Maroon 5	One More Night" /content/musicvideos/Maroon5-OneMoreNight_ENG.mkv
+Digemenu:  Mon Sep  9 06:48:15 2013: exitCode == 0
+Digemenu:  Mon Sep  9 06:48:38 2013: executing command play_video -t "Nelly Furtado	Spirit Indestructible" /content/musicvideos/NellyFurtado-SpiritIndestructible_ENG.mkv
+Digemenu:  Mon Sep  9 06:52:57 2013: returning from command play_video -t "Nelly Furtado	Spirit Indestructible" /content/musicvideos/NellyFurtado-SpiritIndestructible_ENG.mkv
+Digemenu:  Mon Sep  9 06:52:57 2013: exitCode == 0
+Digemenu:  Mon Sep  9 06:53:18 2013: executing command play_video -t "The Band Perry	Postcard from Paris" /content/musicvideos/TheBandPerry-PostCardFromParis_ENG.mkv
+Digemenu:  Mon Sep  9 06:57:04 2013: returning from command play_video -t "The Band Perry	Postcard from Paris" /content/musicvideos/TheBandPerry-PostCardFromParis_ENG.mkv
+Digemenu:  Mon Sep  9 06:57:04 2013: exitCode == 0
+Digemenu:  Mon Sep  9 06:57:12 2013: Returned to main menu Main Menu
+Digemenu:  Mon Sep  9 06:57:15 2013: executing command !digetunes
+Digemenu:  Mon Sep  9 08:54:47 2013: returning from command !digetunes
+Digemenu:  Mon Sep  9 08:54:47 2013: exitCode == 0
+Digemenu:  Mon Sep  9 08:54:47 2013: Returned to main menu Main Menu
+Digemenu:  Mon Sep  9 08:54:52 2013: executing command !digetunes
+Digemenu:  Mon Sep  9 12:44:29 2013: Starting digemenu version 2
+Digemenu:  Mon Sep  9 12:44:38 2013: Starting main menu Main Menu
+Digemenu:  Mon Sep  9 12:44:44 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Mon Sep  9 12:46:11 2013: Returned to main menu Main Menu
+Digemenu:  Mon Sep  9 12:46:12 2013: Starting menu Favorite Classic Movies
+Digemenu:  Mon Sep  9 12:46:14 2013: Starting menu All Time Favorites
+Digemenu:  Mon Sep  9 12:47:53 2013: Starting menu Favorite Classic Movies
+Digemenu:  Mon Sep  9 12:47:53 2013: Returned to main menu Main Menu
+Digemenu:  Mon Sep  9 12:47:56 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Mon Sep  9 12:48:01 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Mon Sep  9 12:48:01 2013: Detailing item The Internship
+Digemenu:  Mon Sep  9 12:48:05 2013: executing command play_video -t "The Internship" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/TheInternship-TH_ENGLSP.mkv
+Digemenu:  Mon Sep  9 14:49:58 2013: returning from command play_video -t "The Internship" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/TheInternship-TH_ENGLSP.mkv
+Digemenu:  Mon Sep  9 14:49:58 2013: exitCode == 0
+Digemenu:  Mon Sep  9 14:50:02 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Mon Sep  9 14:50:08 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Mon Sep  9 14:50:08 2013: Detailing item The East
+Digemenu:  Mon Sep  9 14:50:16 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Mon Sep  9 14:50:26 2013: Starting menu Independent Films
+Digemenu:  Mon Sep  9 14:50:32 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Mon Sep  9 14:50:33 2013: Returned to main menu Main Menu
+Digemenu:  Mon Sep  9 14:50:45 2013: Starting menu Games
+Digemenu:  Mon Sep  9 14:50:58 2013: Returned to main menu Main Menu
+Digemenu:  Mon Sep  9 14:51:08 2013: Starting menu Favorite Classic Movies
+Digemenu:  Mon Sep  9 14:51:10 2013: Starting menu All Time Favorites
+Digemenu:  Mon Sep  9 14:51:44 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Mon Sep  9 14:51:44 2013: Detailing item Harry Potter and the Deathly Hallows: Part 2
+Digemenu:  Mon Sep  9 14:51:47 2013: executing command play_video -t "Harry Potter and the Deathly Hallows Part 2" /content/videos/HarryPotterAndTheDeathlyHallows-part2_ENG.mkv
+Digemenu:  Mon Sep  9 15:27:24 2013: returning from command play_video -t "Harry Potter and the Deathly Hallows Part 2" /content/videos/HarryPotterAndTheDeathlyHallows-part2_ENG.mkv
+Digemenu:  Mon Sep  9 15:27:24 2013: exitCode != 0
+Digemenu:  Mon Sep  9 15:27:24 2013: exitCode == RETURN_TO_HOME
+Digemenu:  Mon Sep  9 15:27:24 2013: Returned to main menu Main Menu
+Digemenu:  Mon Sep  9 15:27:28 2013: Starting menu Favorite Classic Movies
+Digemenu:  Mon Sep  9 15:27:30 2013: Starting menu All Time Favorites
+Digemenu:  Mon Sep  9 15:27:43 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Mon Sep  9 15:27:43 2013: Detailing item Harry Potter and the Deathly Hallows: Part 2
+Digemenu:  Mon Sep  9 15:27:45 2013: executing command play_video -t "Harry Potter and the Deathly Hallows Part 2" /content/videos/HarryPotterAndTheDeathlyHallows-part2_ENG.mkv
+Digemenu:  Mon Sep  9 15:27:55 2013: returning from command play_video -t "Harry Potter and the Deathly Hallows Part 2" /content/videos/HarryPotterAndTheDeathlyHallows-part2_ENG.mkv
+Digemenu:  Mon Sep  9 15:27:55 2013: exitCode != 0
+Digemenu:  Mon Sep  9 15:27:55 2013: exitCode == RETURN_TO_HOME
+Digemenu:  Mon Sep  9 15:27:55 2013: Returned to main menu Main Menu
+Digemenu:  Mon Sep  9 15:27:57 2013: Starting menu Favorite Classic Movies
+Digemenu:  Mon Sep  9 15:27:58 2013: Starting menu All Time Favorites
+Digemenu:  Mon Sep  9 15:28:08 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Mon Sep  9 15:28:08 2013: Detailing item Harry Potter and the Deathly Hallows: Part 2
+Digemenu:  Mon Sep  9 15:28:09 2013: executing command play_video -t "Harry Potter and the Deathly Hallows Part 2" /content/videos/HarryPotterAndTheDeathlyHallows-part2_ENG.mkv
+Digemenu:  Mon Sep  9 16:55:37 2013: returning from command play_video -t "Harry Potter and the Deathly Hallows Part 2" /content/videos/HarryPotterAndTheDeathlyHallows-part2_ENG.mkv
+Digemenu:  Mon Sep  9 16:55:37 2013: exitCode != 0
+Digemenu:  Mon Sep  9 16:55:37 2013: exitCode == RETURN_TO_HOME
+Digemenu:  Mon Sep  9 16:55:37 2013: Returned to main menu Main Menu
+Digemenu:  Mon Sep  9 16:55:40 2013: Starting menu TV Shows
+Digemenu:  Mon Sep  9 16:55:59 2013: Returned to main menu Main Menu
+Digemenu:  Mon Sep  9 16:56:02 2013: Starting menu Favorite Classic Movies
+Digemenu:  Mon Sep  9 16:56:04 2013: Starting menu All Time Favorites
+Digemenu:  Mon Sep  9 16:56:40 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Mon Sep  9 16:56:40 2013: Detailing item In Time
+Digemenu:  Mon Sep  9 16:56:49 2013: executing command play_video -t "In Time" /content/ads/ASA-UWMedicineBariatricMedicine30sec_ENG.mkv /content/videos/InTime_ENG_eng.mkv
+Digemenu:  Mon Sep  9 17:21:00 2013: Shutting down player!
+Digemenu:  Tue Sep 10 04:55:02 2013: Starting digemenu version 2
+Digemenu:  Tue Sep 10 04:55:11 2013: Starting main menu Main Menu
+Digemenu:  Tue Sep 10 05:27:19 2013: Starting digemenu version 2
+Digemenu:  Tue Sep 10 05:27:28 2013: Starting main menu Main Menu
+Digemenu:  Tue Sep 10 05:27:30 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Tue Sep 10 05:27:35 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Tue Sep 10 05:27:35 2013: Detailing item Monsters University
+Digemenu:  Tue Sep 10 05:27:46 2013: Detailing item The Great Gatsby
+Digemenu:  Tue Sep 10 05:27:49 2013: Detailing item The Internship
+Digemenu:  Tue Sep 10 05:27:56 2013: Detailing item The East
+Digemenu:  Tue Sep 10 05:28:00 2013: Detailing item 42
+Digemenu:  Tue Sep 10 05:28:01 2013: Detailing item Epic
+Digemenu:  Tue Sep 10 05:28:04 2013: Detailing item 42
+Digemenu:  Tue Sep 10 05:28:06 2013: Detailing item The East
+Digemenu:  Tue Sep 10 05:28:07 2013: Detailing item The Internship
+Digemenu:  Tue Sep 10 05:28:12 2013: Detailing item The Great Gatsby
+Digemenu:  Tue Sep 10 05:28:14 2013: Detailing item Monsters University
+Digemenu:  Tue Sep 10 05:28:19 2013: executing command play_video -t "Monsters University" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/MonstersUniversity_ENGLSP.mkv
+Digemenu:  Tue Sep 10 06:42:25 2013: returning from command play_video -t "Monsters University" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/MonstersUniversity_ENGLSP.mkv
+Digemenu:  Tue Sep 10 06:42:25 2013: exitCode == 0
+Digemenu:  Tue Sep 10 06:42:34 2013: Starting menu TV Shows
+Digemenu:  Tue Sep 10 06:42:43 2013: Starting detailsMenu for TV Shows
+Digemenu:  Tue Sep 10 06:42:43 2013: Detailing item The Big Bang Theory
+Digemenu:  Tue Sep 10 06:44:44 2013: executing command play_video -t "The Big Bang Theory" /content/ads/UWYouthConcussions30s_ENG.mkv /content/videos/UAL-TheBigBangTheory-TheClosureAlternative_ENG.mkv
+Digemenu:  Tue Sep 10 06:53:09 2013: returning from command play_video -t "The Big Bang Theory" /content/ads/UWYouthConcussions30s_ENG.mkv /content/videos/UAL-TheBigBangTheory-TheClosureAlternative_ENG.mkv
+Digemenu:  Tue Sep 10 06:53:09 2013: exitCode == 0
+Digemenu:  Tue Sep 10 06:53:11 2013: Detailing item The Big Bang Theory
+Digemenu:  Tue Sep 10 06:53:13 2013: executing command play_video -t "The Big Bang Theory" /content/videos/UAL-TheBigBangTheory-TheClosetConfiguration_ENG.mkv
+Digemenu:  Tue Sep 10 06:53:28 2013: returning from command play_video -t "The Big Bang Theory" /content/videos/UAL-TheBigBangTheory-TheClosetConfiguration_ENG.mkv
+Digemenu:  Tue Sep 10 06:53:28 2013: exitCode == 0
+Digemenu:  Tue Sep 10 06:53:29 2013: Detailing item The Big Bang Theory
+Digemenu:  Tue Sep 10 06:53:32 2013: executing command play_video -t "The Big Bang Theory" /content/ads/UWYouthConcussions30s_ENG.mkv /content/videos/UAL-TheBigBangTheory-TheClosureAlternative_ENG.mkv
+Digemenu:  Tue Sep 10 07:13:09 2013: returning from command play_video -t "The Big Bang Theory" /content/ads/UWYouthConcussions30s_ENG.mkv /content/videos/UAL-TheBigBangTheory-TheClosureAlternative_ENG.mkv
+Digemenu:  Tue Sep 10 07:13:09 2013: exitCode == 0
+Digemenu:  Tue Sep 10 07:13:10 2013: Detailing item The Following
+Digemenu:  Tue Sep 10 07:13:12 2013: Detailing item The Mentalist
+Digemenu:  Tue Sep 10 07:13:13 2013: Detailing item The Middle
+Digemenu:  Tue Sep 10 07:13:15 2013: Detailing item Two and a Half Men
+Digemenu:  Tue Sep 10 07:13:17 2013: Detailing item Maltin on Movies
+Digemenu:  Tue Sep 10 07:13:18 2013: Detailing item Countdown
+Digemenu:  Tue Sep 10 07:13:19 2013: Detailing item Maltin on Movies
+Digemenu:  Tue Sep 10 07:13:21 2013: Detailing item Two and a Half Men
+Digemenu:  Tue Sep 10 07:13:22 2013: Detailing item The Middle
+Digemenu:  Tue Sep 10 07:13:23 2013: Detailing item The Mentalist
+Digemenu:  Tue Sep 10 07:13:24 2013: Detailing item The Following
+Digemenu:  Tue Sep 10 07:13:25 2013: Detailing item The Big Bang Theory
+Digemenu:  Tue Sep 10 07:13:27 2013: Detailing item The Big Bang Theory
+Digemenu:  Tue Sep 10 07:13:28 2013: Detailing item Suburgatory
+Digemenu:  Tue Sep 10 07:13:31 2013: Detailing item New Girl
+Digemenu:  Tue Sep 10 07:13:32 2013: Detailing item Friends
+Digemenu:  Tue Sep 10 07:13:34 2013: Detailing item New Girl
+Digemenu:  Tue Sep 10 07:13:36 2013: executing command play_video -t "New Girl" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/UAL-NewGirl-QuickHardeningCaulk_ENG.mkv
+Digemenu:  Tue Sep 10 07:22:03 2013: returning from command play_video -t "New Girl" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/UAL-NewGirl-QuickHardeningCaulk_ENG.mkv
+Digemenu:  Tue Sep 10 07:22:03 2013: exitCode == 0
+Digemenu:  Tue Sep 10 07:22:05 2013: Starting menu TV Shows
+Digemenu:  Tue Sep 10 07:22:08 2013: Starting detailsMenu for TV Shows
+Digemenu:  Tue Sep 10 07:22:08 2013: Detailing item 2 Broke Girls
+Digemenu:  Tue Sep 10 07:22:11 2013: executing command play_video -t "2 Broke Girls" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/UAL-2BrokeGirls-AndTheCandyManwich_ENG.mkv
+Digemenu:  Tue Sep 10 07:22:44 2013: returning from command play_video -t "2 Broke Girls" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/UAL-2BrokeGirls-AndTheCandyManwich_ENG.mkv
+Digemenu:  Tue Sep 10 07:22:44 2013: exitCode == 0
+Digemenu:  Tue Sep 10 07:22:47 2013: Detailing item Anger Management
+Digemenu:  Tue Sep 10 07:22:57 2013: executing command play_video -t "Anger Management" /content/ads/ASA-UWMedicine-MSCenter30Sec_ENG.mkv /content/videos/UAL-AngerManagement-ChariesDadBreaksBad_ENG.mkv
+Digemenu:  Tue Sep 10 07:33:45 2013: Shutting down player!
+Digemenu:  Tue Sep 10 07:33:50 2013: Shutting down player!
+Digemenu:  Tue Sep 10 09:24:07 2013: Starting digemenu version 2
+Digemenu:  Tue Sep 10 09:24:16 2013: Starting main menu Main Menu
+Digemenu:  Tue Sep 10 09:25:32 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Tue Sep 10 09:25:51 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Tue Sep 10 09:25:51 2013: Detailing item The East
+Digemenu:  Tue Sep 10 09:26:11 2013: Detailing item 42
+Digemenu:  Tue Sep 10 09:26:17 2013: Detailing item Epic
+Digemenu:  Tue Sep 10 09:26:22 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Tue Sep 10 09:26:39 2013: Starting menu Favorite Classic Movies
+Digemenu:  Tue Sep 10 09:26:41 2013: Starting menu All Time Favorites
+Digemenu:  Tue Sep 10 09:26:46 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Tue Sep 10 09:26:46 2013: Detailing item Avatar
+Digemenu:  Tue Sep 10 09:26:48 2013: Detailing item Beasts of the Southern Wild
+Digemenu:  Tue Sep 10 09:26:51 2013: Detailing item Best Exotic Marigold Hotel
+Digemenu:  Tue Sep 10 09:26:54 2013: Detailing item Black Swan
+Digemenu:  Tue Sep 10 09:27:06 2013: Detailing item Born To Be Wild
+Digemenu:  Tue Sep 10 09:27:08 2013: Detailing item Broken City
+Digemenu:  Tue Sep 10 09:27:25 2013: Detailing item Charlie and the Chocolate Factory
+Digemenu:  Tue Sep 10 09:27:27 2013: Detailing item Chasing Mavericks
+Digemenu:  Tue Sep 10 09:27:28 2013: Detailing item Clash of the Titans
+Digemenu:  Tue Sep 10 09:27:30 2013: Detailing item Crazy, Stupid, Love.
+Digemenu:  Tue Sep 10 09:27:32 2013: Detailing item Dark Shadows
+Digemenu:  Tue Sep 10 09:27:33 2013: Detailing item Date Night
+Digemenu:  Tue Sep 10 09:27:35 2013: Detailing item Diary of a Wimpy Kid: Dog Days
+Digemenu:  Tue Sep 10 09:27:36 2013: Detailing item Dolphin Tale
+Digemenu:  Tue Sep 10 09:27:37 2013: Detailing item Due Date
+Digemenu:  Tue Sep 10 09:27:39 2013: Detailing item Firehouse Dog
+Digemenu:  Tue Sep 10 09:27:40 2013: Detailing item Green Lantern
+Digemenu:  Tue Sep 10 09:27:41 2013: Detailing item Gulliver's Travels
+Digemenu:  Tue Sep 10 09:27:42 2013: Detailing item Happy Feet Two
+Digemenu:  Tue Sep 10 09:27:43 2013: Detailing item Harry Potter and the Deathly Hallows: Part 1
+Digemenu:  Tue Sep 10 09:27:45 2013: Detailing item Harry Potter and the Deathly Hallows: Part 2
+Digemenu:  Tue Sep 10 09:27:47 2013: Detailing item Hereafter
+Digemenu:  Tue Sep 10 09:27:50 2013: Detailing item Hitchcock
+Digemenu:  Tue Sep 10 09:27:51 2013: Detailing item In Time
+Digemenu:  Tue Sep 10 09:27:53 2013: Detailing item Inception
+Digemenu:  Tue Sep 10 09:27:55 2013: Detailing item Invictus
+Digemenu:  Tue Sep 10 09:27:58 2013: Detailing item J. Edgar
+Digemenu:  Tue Sep 10 09:28:00 2013: Detailing item Jack the Giant Slayer
+Digemenu:  Tue Sep 10 09:28:02 2013: Detailing item Life as We Know It
+Digemenu:  Tue Sep 10 09:28:05 2013: Detailing item Life of Pi
+Digemenu:  Tue Sep 10 09:28:06 2013: Detailing item Marley and Me
+Digemenu:  Tue Sep 10 09:28:08 2013: Detailing item Million Dollar Baby
+Digemenu:  Tue Sep 10 09:28:09 2013: Detailing item Parental Guidance
+Digemenu:  Tue Sep 10 09:28:11 2013: Detailing item Pleasantville
+Digemenu:  Tue Sep 10 09:28:12 2013: Detailing item Prometheus
+Digemenu:  Tue Sep 10 09:28:13 2013: Detailing item Rio
+Digemenu:  Tue Sep 10 09:28:15 2013: Detailing item Rock of Ages
+Digemenu:  Tue Sep 10 09:28:16 2013: Detailing item Ruby Sparks
+Digemenu:  Tue Sep 10 09:28:18 2013: Detailing item Sherlock Holmes: A Game of Shadows
+Digemenu:  Tue Sep 10 09:28:20 2013: Detailing item Shine
+Digemenu:  Tue Sep 10 09:28:21 2013: Detailing item Slumdog Millionaire
+Digemenu:  Tue Sep 10 09:28:23 2013: Detailing item Superman
+Digemenu:  Tue Sep 10 09:28:25 2013: Detailing item Taken 2
+Digemenu:  Tue Sep 10 09:28:27 2013: Detailing item The Big Year
+Digemenu:  Tue Sep 10 09:28:29 2013: Detailing item Taken 2
+Digemenu:  Tue Sep 10 09:28:48 2013: executing command play_video -t "Taken 2" /content/videos/Taken2-TH_ENG.mkv
+Digemenu:  Tue Sep 10 10:55:56 2013: returning from command play_video -t "Taken 2" /content/videos/Taken2-TH_ENG.mkv
+Digemenu:  Tue Sep 10 10:55:56 2013: exitCode == 0
+Digemenu:  Tue Sep 10 10:55:56 2013: Starting menu All Time Favorites
+Digemenu:  Tue Sep 10 10:55:59 2013: Starting menu Favorite Classic Movies
+Digemenu:  Tue Sep 10 10:55:59 2013: Starting menu Favorite Classic Movies
+Digemenu:  Tue Sep 10 10:56:04 2013: executing command !digetunes
+Digemenu:  Tue Sep 10 12:11:51 2013: returning from command !digetunes
+Digemenu:  Tue Sep 10 12:11:51 2013: exitCode == 0
+Digemenu:  Tue Sep 10 12:12:00 2013: Returned to main menu Main Menu
+Digemenu:  Tue Sep 10 12:12:00 2013: Returned to main menu Main Menu
+Digemenu:  Wed Sep 11 17:32:33 2013: Starting digemenu version 2
+Digemenu:  Wed Sep 11 17:32:41 2013: Starting main menu Main Menu
+Digemenu:  Wed Sep 11 17:34:08 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Wed Sep 11 17:35:23 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Wed Sep 11 17:35:23 2013: Detailing item The Great Gatsby
+Digemenu:  Wed Sep 11 17:35:31 2013: executing command play_video    -f DejaVuSans:16 -t "The Great Gatsby" /content/ads/ASA-BankOfAmerica-30sec_ENG.mkv /content/videos/TheGreatGatsby-ED_ENG_eng.mkv
+Digemenu:  Wed Sep 11 17:35:57 2013: returning from command play_video    -f DejaVuSans:16 -t "The Great Gatsby" /content/ads/ASA-BankOfAmerica-30sec_ENG.mkv /content/videos/TheGreatGatsby-ED_ENG_eng.mkv
+Digemenu:  Wed Sep 11 17:35:57 2013: exitCode == 0
+Digemenu:  Wed Sep 11 17:36:17 2013: executing command play_video    -f DejaVuSans:16 -t "The Great Gatsby" /content/ads/ASA-BankOfAmerica-30sec_ENG.mkv /content/videos/TheGreatGatsby-ED_ENG_eng.mkv
+Digemenu:  Wed Sep 11 17:43:52 2013: returning from command play_video    -f DejaVuSans:16 -t "The Great Gatsby" /content/ads/ASA-BankOfAmerica-30sec_ENG.mkv /content/videos/TheGreatGatsby-ED_ENG_eng.mkv
+Digemenu:  Wed Sep 11 17:43:53 2013: exitCode == 0
+Digemenu:  Wed Sep 11 17:43:54 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Wed Sep 11 17:44:16 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Wed Sep 11 17:44:16 2013: Detailing item Monsters University
+Digemenu:  Wed Sep 11 17:44:20 2013: Starting menu Favorite Classic Movies
+Digemenu:  Wed Sep 11 17:44:22 2013: Returned to main menu Main Menu
+Digemenu:  Wed Sep 11 17:44:25 2013: Starting menu Favorite Classic Movies
+Digemenu:  Wed Sep 11 17:44:27 2013: Starting menu All Time Favorites
+Digemenu:  Wed Sep 11 17:44:45 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Wed Sep 11 17:44:45 2013: Detailing item Firehouse Dog
+Digemenu:  Wed Sep 11 17:44:48 2013: Starting menu All Time Favorites
+Digemenu:  Wed Sep 11 17:44:50 2013: Starting menu Favorite Classic Movies
+Digemenu:  Wed Sep 11 17:44:51 2013: Starting menu All Time Favorites
+Digemenu:  Wed Sep 11 17:45:50 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Wed Sep 11 17:45:50 2013: Detailing item Prometheus
+Digemenu:  Wed Sep 11 17:45:59 2013: executing command play_video -t "Prometheus" /content/ads/ASA-UWMedicine-Ravenna_ENG.mkv /content/videos/Prometheus_ENG.mkv
+Digemenu:  Wed Sep 11 17:54:22 2013: returning from command play_video -t "Prometheus" /content/ads/ASA-UWMedicine-Ravenna_ENG.mkv /content/videos/Prometheus_ENG.mkv
+Digemenu:  Wed Sep 11 17:54:22 2013: exitCode == 0
+Digemenu:  Wed Sep 11 17:54:24 2013: Returned to main menu Main Menu
+Digemenu:  Wed Sep 11 23:30:22 2013: Starting digemenu version 2
+Digemenu:  Wed Sep 11 23:30:31 2013: Starting main menu Main Menu
+Digemenu:  Wed Sep 11 23:30:52 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Wed Sep 11 23:31:30 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Wed Sep 11 23:31:30 2013: Detailing item The Great Gatsby
+Digemenu:  Wed Sep 11 23:31:43 2013: Detailing item The Internship
+Digemenu:  Wed Sep 11 23:31:57 2013: Detailing item The East
+Digemenu:  Wed Sep 11 23:32:13 2013: Detailing item 42
+Digemenu:  Wed Sep 11 23:32:15 2013: Detailing item The East
+Digemenu:  Wed Sep 11 23:32:16 2013: Detailing item The Internship
+Digemenu:  Wed Sep 11 23:32:18 2013: Detailing item The Great Gatsby
+Digemenu:  Wed Sep 11 23:32:19 2013: Detailing item Monsters University
+Digemenu:  Wed Sep 11 23:32:24 2013: Detailing item The Great Gatsby
+Digemenu:  Wed Sep 11 23:33:11 2013: executing command play_video  -u 0  -f DejaVuSans:16 -t "The Great Gatsby" /content/ads/ASA-BankOfAmerica-30sec_ENG.mkv /content/videos/TheGreatGatsby-ED_ENG_eng.mkv
+Digemenu:  Wed Sep 11 23:36:02 2013: returning from command play_video  -u 0  -f DejaVuSans:16 -t "The Great Gatsby" /content/ads/ASA-BankOfAmerica-30sec_ENG.mkv /content/videos/TheGreatGatsby-ED_ENG_eng.mkv
+Digemenu:  Wed Sep 11 23:36:02 2013: exitCode != 0
+Digemenu:  Wed Sep 11 23:36:02 2013: exitCode == RETURN_TO_HOME
+Digemenu:  Wed Sep 11 23:36:02 2013: Returned to main menu Main Menu
+Digemenu:  Wed Sep 11 23:36:05 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Wed Sep 11 23:36:10 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Wed Sep 11 23:36:10 2013: Detailing item The Great Gatsby
+Digemenu:  Wed Sep 11 23:36:16 2013: executing command play_video    -f DejaVuSans:16 -t "The Great Gatsby" /content/ads/ASA-BankOfAmerica-30sec_ENG.mkv /content/videos/TheGreatGatsby-ED_ENG_eng.mkv
+Digemenu:  Wed Sep 11 23:46:36 2013: returning from command play_video    -f DejaVuSans:16 -t "The Great Gatsby" /content/ads/ASA-BankOfAmerica-30sec_ENG.mkv /content/videos/TheGreatGatsby-ED_ENG_eng.mkv
+Digemenu:  Wed Sep 11 23:46:36 2013: exitCode == 0
+Digemenu:  Wed Sep 11 23:46:39 2013: Detailing item The Internship
+Digemenu:  Wed Sep 11 23:46:44 2013: Shutting down player!
+Digemenu:  Fri Sep 13 22:00:07 2013: Starting digemenu version 2
+Digemenu:  Fri Sep 13 22:00:16 2013: Starting main menu Main Menu
+Digemenu:  Fri Sep 13 22:00:25 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Fri Sep 13 22:00:39 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Fri Sep 13 22:00:39 2013: Detailing item Monsters University
+Digemenu:  Fri Sep 13 22:00:41 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Fri Sep 13 22:00:54 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Fri Sep 13 22:00:54 2013: Detailing item 42
+Digemenu:  Fri Sep 13 22:01:01 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Fri Sep 13 22:01:06 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Fri Sep 13 22:01:06 2013: Detailing item The East
+Digemenu:  Fri Sep 13 22:01:29 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Fri Sep 13 22:01:39 2013: Starting menu Independent Films
+Digemenu:  Fri Sep 13 22:01:52 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Fri Sep 13 22:01:55 2013: Returned to main menu Main Menu
+Digemenu:  Fri Sep 13 22:02:00 2013: Starting menu Favorite Classic Movies
+Digemenu:  Fri Sep 13 22:02:02 2013: Starting menu All Time Favorites
+Digemenu:  Fri Sep 13 22:02:22 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Fri Sep 13 22:02:22 2013: Detailing item Chasing Mavericks
+Digemenu:  Fri Sep 13 22:02:41 2013: Starting menu All Time Favorites
+Digemenu:  Fri Sep 13 22:03:57 2013: Starting menu Favorite Classic Movies
+Digemenu:  Fri Sep 13 22:04:34 2013: executing command stopwifi.sh
+Digemenu:  Fri Sep 13 22:04:35 2013: returning from command stopwifi.sh
+Digemenu:  Fri Sep 13 22:04:35 2013: exitCode == 0
+Digemenu:  Fri Sep 13 22:04:35 2013: executing command !startwifi /content/menu/images/BrowserWarning.png
+Digemenu:  Fri Sep 13 22:04:53 2013: returning from command !startwifi /content/menu/images/BrowserWarning.png
+Digemenu:  Fri Sep 13 22:04:53 2013: exitCode == 0
+Digemenu:  Fri Sep 13 22:04:53 2013: executing command run_browser.sh www.alaskaair.com
+Digemenu:  Fri Sep 13 23:59:36 2013: Starting digemenu version 2
+Digemenu:  Fri Sep 13 23:59:45 2013: Starting main menu Main Menu
+Digemenu:  Fri Sep 13 23:59:48 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Fri Sep 13 23:59:52 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Fri Sep 13 23:59:52 2013: Detailing item The Great Gatsby
+Digemenu:  Sat Sep 14 00:00:10 2013: Detailing item The Internship
+Digemenu:  Sat Sep 14 00:00:11 2013: Detailing item The East
+Digemenu:  Sat Sep 14 00:00:14 2013: Detailing item The Internship
+Digemenu:  Sat Sep 14 00:00:26 2013: Detailing item The East
+Digemenu:  Sat Sep 14 00:00:42 2013: Detailing item 42
+Digemenu:  Sat Sep 14 00:00:55 2013: Detailing item Epic
+Digemenu:  Sat Sep 14 00:00:58 2013: Detailing item 42
+Digemenu:  Sat Sep 14 00:00:59 2013: Detailing item The East
+Digemenu:  Sat Sep 14 00:01:54 2013: executing command play_video -t "The East" /content/ads/MISSINGAD /content/videos/TheEastTH_ENGRUS.mkv
+Digemenu:  Sat Sep 14 02:02:33 2013: returning from command play_video -t "The East" /content/ads/MISSINGAD /content/videos/TheEastTH_ENGRUS.mkv
+Digemenu:  Sat Sep 14 02:02:33 2013: exitCode == 0
+Digemenu:  Sat Sep 14 02:03:00 2013: Detailing item The Internship
+Digemenu:  Sat Sep 14 02:04:55 2013: Shutting down player!
+Digemenu:  Sun Sep 15 23:05:05 2013: Starting digemenu version 2
+Digemenu:  Sun Sep 15 23:05:14 2013: Starting main menu Main Menu
+Digemenu:  Sun Sep 15 23:08:49 2013: Starting menu TV Shows
+Digemenu:  Sun Sep 15 23:14:16 2013: Returned to main menu Main Menu
+Digemenu:  Sun Sep 15 23:14:19 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Sun Sep 15 23:15:10 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Sun Sep 15 23:15:10 2013: Detailing item The Great Gatsby
+Digemenu:  Sun Sep 15 23:16:01 2013: executing command play_video  -u 0  -f DejaVuSans:16 -t "The Great Gatsby" /content/ads/ASA-BankOfAmerica-30sec_ENG.mkv /content/videos/TheGreatGatsby-ED_ENG_eng.mkv
+Digemenu:  Sun Sep 15 23:20:20 2013: returning from command play_video  -u 0  -f DejaVuSans:16 -t "The Great Gatsby" /content/ads/ASA-BankOfAmerica-30sec_ENG.mkv /content/videos/TheGreatGatsby-ED_ENG_eng.mkv
+Digemenu:  Sun Sep 15 23:20:20 2013: exitCode == 0
+Digemenu:  Sun Sep 15 23:20:25 2013: Returned to main menu Main Menu
+Digemenu:  Sun Sep 15 23:20:55 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Sun Sep 15 23:21:01 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Sun Sep 15 23:21:01 2013: Detailing item The Great Gatsby
+Digemenu:  Sun Sep 15 23:21:04 2013: executing command play_video  -u 0  -f DejaVuSans:16 -t "The Great Gatsby" /content/ads/ASA-BankOfAmerica-30sec_ENG.mkv /content/videos/TheGreatGatsby-ED_ENG_eng.mkv
+Digemenu:  Mon Sep 16 01:36:14 2013: Returned to main menu Main Menu
+Digemenu:  Mon Sep 16 01:36:17 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Mon Sep 16 01:36:25 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Mon Sep 16 01:36:25 2013: Detailing item The East
+Digemenu:  Mon Sep 16 01:36:44 2013: executing command play_video -t "The East" /content/ads/MISSINGAD /content/videos/TheEastTH_ENGRUS.mkv
+Digemenu:  Mon Sep 16 02:29:48 2013: returning from command play_video -t "The East" /content/ads/MISSINGAD /content/videos/TheEastTH_ENGRUS.mkv
+Digemenu:  Mon Sep 16 02:29:48 2013: exitCode == 0
+Digemenu:  Mon Sep 16 02:29:49 2013: Detailing item 42
+Digemenu:  Mon Sep 16 02:29:51 2013: Detailing item The East
+Digemenu:  Mon Sep 16 02:29:55 2013: executing command play_video -t "The East" /content/ads/MISSINGAD /content/videos/TheEastTH_ENGRUS.mkv
+Digemenu:  Mon Sep 16 02:52:32 2013: returning from command play_video -t "The East" /content/ads/MISSINGAD /content/videos/TheEastTH_ENGRUS.mkv
+Digemenu:  Mon Sep 16 02:52:32 2013: exitCode == 0
+Digemenu:  Mon Sep 16 02:53:25 2013: Starting digemenu version 2
+Digemenu:  Mon Sep 16 02:53:33 2013: Starting main menu Main Menu
+Digemenu:  Mon Sep 16 02:53:36 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Mon Sep 16 02:53:41 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Mon Sep 16 02:53:41 2013: Detailing item The East
+Digemenu:  Mon Sep 16 02:53:47 2013: executing command play_video -t "The East" /content/ads/MISSINGAD /content/videos/TheEastTH_ENGRUS.mkv
+Digemenu:  Mon Sep 16 03:00:46 2013: Shutting down player!
+Digemenu:  Tue Sep 17 21:35:49 2013: Starting digemenu version 2
+Digemenu:  Tue Sep 17 21:35:57 2013: Starting main menu Main Menu
+Digemenu:  Tue Sep 17 21:36:35 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Tue Sep 17 21:44:32 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Tue Sep 17 21:44:32 2013: Detailing item Monsters University
+Digemenu:  Tue Sep 17 21:44:32 2013: Detailing item The Great Gatsby
+Digemenu:  Wed Sep 18 00:20:16 2013: Starting digemenu version 2
+Digemenu:  Wed Sep 18 00:20:25 2013: Starting main menu Main Menu
+Digemenu:  Wed Sep 18 00:20:29 2013: Starting menu TV Shows
+Digemenu:  Wed Sep 18 00:21:03 2013: Starting detailsMenu for TV Shows
+Digemenu:  Wed Sep 18 00:21:03 2013: Detailing item The Following
+Digemenu:  Wed Sep 18 00:21:10 2013: executing command play_video -t "The Following" /content/ads/ASA-UWMedicine-MSCenter30Sec_ENG.mkv /content/videos/UAL-TheFollowing-Pilot_ENG.mkv
+Digemenu:  Wed Sep 18 00:44:33 2013: returning from command play_video -t "The Following" /content/ads/ASA-UWMedicine-MSCenter30Sec_ENG.mkv /content/videos/UAL-TheFollowing-Pilot_ENG.mkv
+Digemenu:  Wed Sep 18 00:44:33 2013: exitCode == 0
+Digemenu:  Wed Sep 18 00:44:35 2013: executing command play_video -t "The Following" /content/ads/ASA-UWMedicine-MSCenter30Sec_ENG.mkv /content/videos/UAL-TheFollowing-Pilot_ENG.mkv
+Digemenu:  Wed Sep 18 00:44:43 2013: returning from command play_video -t "The Following" /content/ads/ASA-UWMedicine-MSCenter30Sec_ENG.mkv /content/videos/UAL-TheFollowing-Pilot_ENG.mkv
+Digemenu:  Wed Sep 18 00:44:43 2013: exitCode == 0
+Digemenu:  Wed Sep 18 00:44:44 2013: executing command play_video -t "The Following" /content/ads/ASA-UWMedicine-MSCenter30Sec_ENG.mkv /content/videos/UAL-TheFollowing-Pilot_ENG.mkv
+Digemenu:  Wed Sep 18 00:47:53 2013: returning from command play_video -t "The Following" /content/ads/ASA-UWMedicine-MSCenter30Sec_ENG.mkv /content/videos/UAL-TheFollowing-Pilot_ENG.mkv
+Digemenu:  Wed Sep 18 00:47:53 2013: exitCode != 0
+Digemenu:  Wed Sep 18 00:47:53 2013: exitCode == RETURN_TO_HOME
+Digemenu:  Wed Sep 18 00:47:53 2013: Returned to main menu Main Menu
+Digemenu:  Wed Sep 18 00:47:55 2013: Starting menu HGTV
+Digemenu:  Wed Sep 18 00:47:57 2013: Starting menu DIY
+Digemenu:  Wed Sep 18 00:48:00 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Wed Sep 18 00:48:09 2013: Starting menu Independent Films
+Digemenu:  Wed Sep 18 00:48:18 2013: Starting menu Favorite Classic Movies
+Digemenu:  Wed Sep 18 00:48:20 2013: Starting menu All Time Favorites
+Digemenu:  Wed Sep 18 00:49:03 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Wed Sep 18 00:49:03 2013: Detailing item Invictus
+Digemenu:  Wed Sep 18 00:49:04 2013: executing command play_video -t "Invictus" /content/ads/ASA-UWMedicine-MSCenter30Sec_ENG.mkv /content/videos/Invictus_ENGRUS.mkv
+Digemenu:  Fri Sep 20 12:25:48 2013: Starting digemenu version 2
+Digemenu:  Fri Sep 20 12:25:56 2013: Starting main menu Main Menu
+Digemenu:  Fri Sep 20 12:26:01 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Fri Sep 20 12:26:17 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Fri Sep 20 12:26:17 2013: Detailing item The East
+Digemenu:  Fri Sep 20 12:26:39 2013: Detailing item 42
+Digemenu:  Fri Sep 20 12:26:45 2013: Detailing item Epic
+Digemenu:  Fri Sep 20 12:27:03 2013: Detailing item 42
+Digemenu:  Fri Sep 20 12:27:04 2013: Detailing item The East
+Digemenu:  Fri Sep 20 12:27:05 2013: Detailing item The Internship
+Digemenu:  Fri Sep 20 12:27:07 2013: Detailing item The Great Gatsby
+Digemenu:  Fri Sep 20 12:27:10 2013: Detailing item Monsters University
+Digemenu:  Fri Sep 20 12:27:14 2013: Shutting down player!
+Digemenu:  Fri Sep 20 13:53:57 2013: Starting digemenu version 2
+Digemenu:  Fri Sep 20 13:54:06 2013: Starting main menu Main Menu
+Digemenu:  Fri Sep 20 13:54:12 2013: Starting menu Favorite Classic Movies
+Digemenu:  Fri Sep 20 13:54:15 2013: Starting menu All Time Favorites
+Digemenu:  Fri Sep 20 13:54:37 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Fri Sep 20 13:54:37 2013: Detailing item Beasts of the Southern Wild
+Digemenu:  Fri Sep 20 13:54:39 2013: Detailing item Avatar
+Digemenu:  Fri Sep 20 13:54:41 2013: Detailing item Beasts of the Southern Wild
+Digemenu:  Fri Sep 20 13:54:45 2013: Detailing item Best Exotic Marigold Hotel
+Digemenu:  Fri Sep 20 13:54:49 2013: Detailing item Black Swan
+Digemenu:  Fri Sep 20 13:55:04 2013: Detailing item Born To Be Wild
+Digemenu:  Fri Sep 20 13:55:12 2013: Detailing item Broken City
+Digemenu:  Fri Sep 20 13:55:16 2013: Detailing item Charlie and the Chocolate Factory
+Digemenu:  Fri Sep 20 13:55:19 2013: Detailing item Chasing Mavericks
+Digemenu:  Fri Sep 20 13:55:29 2013: Detailing item Clash of the Titans
+Digemenu:  Fri Sep 20 13:55:35 2013: Detailing item Crazy, Stupid, Love.
+Digemenu:  Fri Sep 20 13:55:44 2013: Detailing item Dark Shadows
+Digemenu:  Fri Sep 20 13:55:52 2013: Detailing item Date Night
+Digemenu:  Fri Sep 20 13:56:04 2013: Detailing item Diary of a Wimpy Kid: Dog Days
+Digemenu:  Fri Sep 20 13:56:07 2013: Detailing item Dolphin Tale
+Digemenu:  Fri Sep 20 13:56:10 2013: Detailing item Due Date
+Digemenu:  Fri Sep 20 13:56:14 2013: Detailing item Firehouse Dog
+Digemenu:  Fri Sep 20 13:56:17 2013: Detailing item Green Lantern
+Digemenu:  Fri Sep 20 13:56:23 2013: Detailing item Gulliver's Travels
+Digemenu:  Fri Sep 20 13:56:26 2013: Detailing item Happy Feet Two
+Digemenu:  Fri Sep 20 13:56:29 2013: Detailing item Harry Potter and the Deathly Hallows: Part 1
+Digemenu:  Fri Sep 20 13:56:31 2013: Detailing item Harry Potter and the Deathly Hallows: Part 2
+Digemenu:  Fri Sep 20 13:56:33 2013: Detailing item Hereafter
+Digemenu:  Fri Sep 20 13:56:36 2013: Detailing item Hitchcock
+Digemenu:  Fri Sep 20 13:56:39 2013: Detailing item In Time
+Digemenu:  Fri Sep 20 13:56:44 2013: Detailing item Inception
+Digemenu:  Fri Sep 20 13:56:48 2013: Detailing item Invictus
+Digemenu:  Fri Sep 20 13:56:50 2013: Detailing item J. Edgar
+Digemenu:  Fri Sep 20 13:56:58 2013: Detailing item Jack the Giant Slayer
+Digemenu:  Fri Sep 20 13:57:03 2013: Detailing item Life as We Know It
+Digemenu:  Fri Sep 20 13:57:09 2013: Detailing item Life of Pi
+Digemenu:  Fri Sep 20 13:57:13 2013: Detailing item Marley and Me
+Digemenu:  Fri Sep 20 13:57:16 2013: Detailing item Million Dollar Baby
+Digemenu:  Fri Sep 20 13:57:18 2013: Detailing item Parental Guidance
+Digemenu:  Fri Sep 20 13:57:23 2013: Detailing item Pleasantville
+Digemenu:  Fri Sep 20 13:57:27 2013: Detailing item Prometheus
+Digemenu:  Fri Sep 20 13:57:30 2013: Detailing item Rio
+Digemenu:  Fri Sep 20 13:57:32 2013: Detailing item Rock of Ages
+Digemenu:  Fri Sep 20 13:57:35 2013: Detailing item Ruby Sparks
+Digemenu:  Fri Sep 20 13:57:43 2013: Detailing item Sherlock Holmes: A Game of Shadows
+Digemenu:  Fri Sep 20 13:57:45 2013: Detailing item Shine
+Digemenu:  Fri Sep 20 13:57:50 2013: Detailing item Slumdog Millionaire
+Digemenu:  Fri Sep 20 13:57:52 2013: Detailing item Superman
+Digemenu:  Fri Sep 20 13:58:05 2013: Detailing item Taken 2
+Digemenu:  Fri Sep 20 13:58:12 2013: Detailing item The Big Year
+Digemenu:  Fri Sep 20 13:58:14 2013: Detailing item The Blind Side
+Digemenu:  Fri Sep 20 13:58:16 2013: Detailing item The Campaign
+Digemenu:  Fri Sep 20 13:58:19 2013: Detailing item The Dark Knight Rises
+Digemenu:  Fri Sep 20 13:58:21 2013: Detailing item The Descendants
+Digemenu:  Fri Sep 20 13:58:23 2013: Detailing item The Hobbit: An Unexpected Journey
+Digemenu:  Fri Sep 20 13:58:28 2013: Detailing item The Incredible Burt Wonderstone
+Digemenu:  Fri Sep 20 13:58:30 2013: Detailing item The Three Stooges
+Digemenu:  Fri Sep 20 13:58:34 2013: Detailing item The Town
+Digemenu:  Fri Sep 20 13:58:41 2013: Detailing item Trouble with the Curve
+Digemenu:  Fri Sep 20 13:58:45 2013: Detailing item Unknown
+Digemenu:  Fri Sep 20 13:58:58 2013: Shutting down player!
+Digemenu:  Fri Sep 20 13:59:49 2013: Starting digemenu version 2
+Digemenu:  Fri Sep 20 13:59:58 2013: Starting main menu Main Menu
+Digemenu:  Fri Sep 20 14:00:04 2013: Starting menu Favorite Classic Movies
+Digemenu:  Fri Sep 20 14:00:11 2013: Starting menu Oldies but Goodies
+Digemenu:  Fri Sep 20 14:00:29 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Fri Sep 20 14:00:33 2013: Returned to main menu Main Menu
+Digemenu:  Fri Sep 20 14:00:34 2013: Starting menu Favorite Classic Movies
+Digemenu:  Fri Sep 20 14:00:46 2013: Starting menu All Time Favorites
+Digemenu:  Fri Sep 20 14:01:45 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Fri Sep 20 14:01:45 2013: Detailing item Taken 2
+Digemenu:  Fri Sep 20 14:01:51 2013: executing command play_video -t "Taken 2" /content/videos/Taken2-TH_ENG.mkv
+Digemenu:  Fri Sep 20 15:37:32 2013: returning from command play_video -t "Taken 2" /content/videos/Taken2-TH_ENG.mkv
+Digemenu:  Fri Sep 20 15:37:32 2013: exitCode == 0
+Digemenu:  Fri Sep 20 15:37:33 2013: Detailing item Superman
+Digemenu:  Fri Sep 20 15:37:36 2013: Detailing item Slumdog Millionaire
+Digemenu:  Fri Sep 20 15:37:38 2013: Detailing item Shine
+Digemenu:  Fri Sep 20 15:37:42 2013: Detailing item Slumdog Millionaire
+Digemenu:  Fri Sep 20 15:37:43 2013: Detailing item Superman
+Digemenu:  Fri Sep 20 15:37:44 2013: Detailing item Taken 2
+Digemenu:  Fri Sep 20 15:37:45 2013: Detailing item The Big Year
+Digemenu:  Fri Sep 20 15:37:47 2013: Detailing item The Blind Side
+Digemenu:  Fri Sep 20 15:37:48 2013: Detailing item The Campaign
+Digemenu:  Fri Sep 20 15:37:50 2013: Detailing item The Dark Knight Rises
+Digemenu:  Fri Sep 20 15:37:52 2013: Detailing item The Descendants
+Digemenu:  Fri Sep 20 15:37:53 2013: Detailing item The Hobbit: An Unexpected Journey
+Digemenu:  Fri Sep 20 15:37:55 2013: Detailing item The Incredible Burt Wonderstone
+Digemenu:  Fri Sep 20 15:37:56 2013: Detailing item The Three Stooges
+Digemenu:  Fri Sep 20 15:38:05 2013: Detailing item The Town
+Digemenu:  Fri Sep 20 15:38:43 2013: Detailing item Trouble with the Curve
+Digemenu:  Fri Sep 20 15:38:46 2013: Detailing item Unknown
+Digemenu:  Fri Sep 20 15:38:48 2013: Detailing item Unstoppable
+Digemenu:  Fri Sep 20 15:38:59 2013: executing command play_video -t "Unstoppable" /content/videos/Unstoppable_ENG.mkv
+Digemenu:  Fri Sep 20 15:57:11 2013: Shutting down player!
+Digemenu:  Fri Sep 20 15:57:15 2013: Shutting down player!
+Digemenu:  Sat Sep 21 13:13:02 2013: Starting digemenu version 2
+Digemenu:  Sat Sep 21 13:13:10 2013: Starting main menu Main Menu
+Digemenu:  Sat Sep 21 13:17:44 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Sat Sep 21 13:18:03 2013: Starting menu HGTV
+Digemenu:  Sat Sep 21 13:18:05 2013: Starting menu HGTV
+Digemenu:  Sat Sep 21 13:18:07 2013: Starting detailsMenu for HGTV
+Digemenu:  Sat Sep 21 13:18:07 2013: Detailing item You Live in What?
+Digemenu:  Sat Sep 21 13:18:15 2013: Starting menu Favorite Classic Movies
+Digemenu:  Sat Sep 21 13:18:18 2013: Starting menu All Time Favorites
+Digemenu:  Sat Sep 21 13:19:17 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Sat Sep 21 13:19:17 2013: Detailing item Due Date
+Digemenu:  Sat Sep 21 13:19:33 2013: executing command play_video -t "Due Date" /content/ads/ASA-UWMedicineBariatricMedicine30sec_ENG.mkv /content/videos/DueDate_ENG.mkv
+Digemenu:  Sat Sep 21 13:20:19 2013: returning from command play_video -t "Due Date" /content/ads/ASA-UWMedicineBariatricMedicine30sec_ENG.mkv /content/videos/DueDate_ENG.mkv
+Digemenu:  Sat Sep 21 13:20:19 2013: exitCode == 0
+Digemenu:  Sat Sep 21 13:20:20 2013: Starting menu All Time Favorites
+Digemenu:  Sat Sep 21 13:20:28 2013: Starting menu Favorite Classic Movies
+Digemenu:  Sat Sep 21 13:20:56 2013: Starting menu All Time Favorites
+Digemenu:  Sat Sep 21 13:21:29 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Sat Sep 21 13:21:29 2013: Detailing item Hereafter
+Digemenu:  Sat Sep 21 13:21:41 2013: Detailing item Hitchcock
+Digemenu:  Sat Sep 21 13:21:43 2013: Detailing item In Time
+Digemenu:  Sat Sep 21 13:21:47 2013: Detailing item Inception
+Digemenu:  Sat Sep 21 13:21:48 2013: Detailing item Invictus
+Digemenu:  Sat Sep 21 13:21:51 2013: Detailing item J. Edgar
+Digemenu:  Sat Sep 21 13:21:53 2013: Detailing item Jack the Giant Slayer
+Digemenu:  Sat Sep 21 13:21:55 2013: Detailing item Life as We Know It
+Digemenu:  Sat Sep 21 13:21:58 2013: Detailing item Life of Pi
+Digemenu:  Sat Sep 21 13:22:07 2013: Starting menu Favorite Classic Movies
+Digemenu:  Sat Sep 21 13:22:09 2013: Starting menu All Time Favorites
+Digemenu:  Sat Sep 21 13:22:30 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Sat Sep 21 13:22:30 2013: Detailing item Due Date
+Digemenu:  Sat Sep 21 13:22:34 2013: executing command play_video -t "Due Date" /content/ads/ASA-UWMedicineBariatricMedicine30sec_ENG.mkv /content/videos/DueDate_ENG.mkv
+Digemenu:  Sat Sep 21 13:23:01 2013: returning from command play_video -t "Due Date" /content/ads/ASA-UWMedicineBariatricMedicine30sec_ENG.mkv /content/videos/DueDate_ENG.mkv
+Digemenu:  Sat Sep 21 13:23:01 2013: exitCode == 0
+Digemenu:  Sat Sep 21 13:23:02 2013: Returned to main menu Main Menu
+Digemenu:  Sat Sep 21 13:23:06 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Sat Sep 21 13:23:16 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Sat Sep 21 13:23:16 2013: Detailing item The Internship
+Digemenu:  Sat Sep 21 13:23:17 2013: executing command play_video -t "The Internship" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/TheInternship-TH_ENGLSP.mkv
+Digemenu:  Sat Sep 21 13:23:54 2013: returning from command play_video -t "The Internship" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/TheInternship-TH_ENGLSP.mkv
+Digemenu:  Sat Sep 21 13:23:54 2013: exitCode == 0
+Digemenu:  Sat Sep 21 13:23:56 2013: executing command play_video -t "The Internship" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/TheInternship-TH_ENGLSP.mkv
+Digemenu:  Sat Sep 21 13:25:04 2013: returning from command play_video -t "The Internship" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/TheInternship-TH_ENGLSP.mkv
+Digemenu:  Sat Sep 21 13:25:04 2013: exitCode == 0
+Digemenu:  Sat Sep 21 13:25:06 2013: executing command play_video -t "The Internship" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/TheInternship-TH_ENGLSP.mkv
+Digemenu:  Sat Sep 21 13:25:52 2013: returning from command play_video -t "The Internship" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/TheInternship-TH_ENGLSP.mkv
+Digemenu:  Sat Sep 21 13:25:52 2013: exitCode == 0
+Digemenu:  Sat Sep 21 13:25:53 2013: executing command play_video -t "The Internship" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/TheInternship-TH_ENGLSP.mkv
+Digemenu:  Sat Sep 21 13:26:10 2013: returning from command play_video -t "The Internship" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/TheInternship-TH_ENGLSP.mkv
+Digemenu:  Sat Sep 21 13:26:10 2013: exitCode == 0
+Digemenu:  Sat Sep 21 13:26:12 2013: Returned to main menu Main Menu
+Digemenu:  Sat Sep 21 13:26:13 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Sat Sep 21 13:26:17 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Sat Sep 21 13:26:17 2013: Detailing item The Internship
+Digemenu:  Sat Sep 21 13:26:18 2013: executing command play_video -t "The Internship" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/TheInternship-TH_ENGLSP.mkv
+Digemenu:  Sat Sep 21 13:27:06 2013: returning from command play_video -t "The Internship" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/TheInternship-TH_ENGLSP.mkv
+Digemenu:  Sat Sep 21 13:27:06 2013: exitCode == 0
+Digemenu:  Sat Sep 21 13:27:07 2013: Returned to main menu Main Menu
+Digemenu:  Sat Sep 21 13:27:09 2013: Starting menu TV Shows
+Digemenu:  Sat Sep 21 13:27:53 2013: Starting detailsMenu for TV Shows
+Digemenu:  Sat Sep 21 13:27:53 2013: Detailing item Two and a Half Men
+Digemenu:  Sat Sep 21 13:27:55 2013: executing command play_video -t "Two and a Half Men" /content/videos/UAL-TwoAndAHalfMen-GrabAFeatherAndGetInLine_ENG.mkv
+Digemenu:  Sat Sep 21 13:28:36 2013: returning from command play_video -t "Two and a Half Men" /content/videos/UAL-TwoAndAHalfMen-GrabAFeatherAndGetInLine_ENG.mkv
+Digemenu:  Sat Sep 21 13:28:36 2013: exitCode != 0
+Digemenu:  Sat Sep 21 13:28:36 2013: exitCode == RETURN_TO_HOME
+Digemenu:  Sat Sep 21 13:28:36 2013: Returned to main menu Main Menu
+Digemenu:  Sat Sep 21 13:29:05 2013: Starting menu TV Shows
+Digemenu:  Sat Sep 21 13:29:08 2013: Starting detailsMenu for TV Shows
+Digemenu:  Sat Sep 21 13:29:08 2013: Detailing item 2 Broke Girls
+Digemenu:  Sat Sep 21 13:29:11 2013: executing command play_video -t "2 Broke Girls" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/UAL-2BrokeGirls-AndTheCandyManwich_ENG.mkv
+Digemenu:  Sat Sep 21 13:30:49 2013: returning from command play_video -t "2 Broke Girls" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/UAL-2BrokeGirls-AndTheCandyManwich_ENG.mkv
+Digemenu:  Sat Sep 21 13:30:49 2013: exitCode == 0
+Digemenu:  Sat Sep 21 13:30:53 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Sat Sep 21 13:30:56 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Sat Sep 21 13:30:56 2013: Detailing item The Internship
+Digemenu:  Sat Sep 21 13:31:02 2013: executing command play_video -t "The Internship" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/TheInternship-TH_ENGLSP.mkv
+Digemenu:  Sat Sep 21 13:59:10 2013: returning from command play_video -t "The Internship" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/TheInternship-TH_ENGLSP.mkv
+Digemenu:  Sat Sep 21 13:59:10 2013: exitCode == 0
+Digemenu:  Sat Sep 21 13:59:17 2013: Starting menu Sports
+Digemenu:  Sat Sep 21 13:59:20 2013: Starting menu HGTV
+Digemenu:  Sat Sep 21 13:59:22 2013: Starting menu HGTV
+Digemenu:  Sat Sep 21 13:59:36 2013: Starting menu TV Shows
+Digemenu:  Sat Sep 21 14:00:05 2013: Starting detailsMenu for TV Shows
+Digemenu:  Sat Sep 21 14:00:05 2013: Detailing item Two and a Half Men
+Digemenu:  Sat Sep 21 14:00:06 2013: executing command play_video -t "Two and a Half Men" /content/videos/UAL-TwoAndAHalfMen-GrabAFeatherAndGetInLine_ENG.mkv
+Digemenu:  Sat Sep 21 14:03:19 2013: returning from command play_video -t "Two and a Half Men" /content/videos/UAL-TwoAndAHalfMen-GrabAFeatherAndGetInLine_ENG.mkv
+Digemenu:  Sat Sep 21 14:03:19 2013: exitCode == 0
+Digemenu:  Sat Sep 21 14:03:22 2013: Starting menu HGTV
+Digemenu:  Sat Sep 21 14:03:27 2013: Starting menu DIY
+Digemenu:  Sat Sep 21 14:03:46 2013: Starting detailsMenu for DIY
+Digemenu:  Sat Sep 21 14:03:46 2013: Detailing item I Hate My Kitchen
+Digemenu:  Sat Sep 21 14:03:47 2013: executing command play_video -t "I Hate My Kitchen" /content/videos/ASA-IhateMyKitchen-AnEntertainingKitchen_ENG.mkv
+Digemenu:  Sat Sep 21 14:25:36 2013: returning from command play_video -t "I Hate My Kitchen" /content/videos/ASA-IhateMyKitchen-AnEntertainingKitchen_ENG.mkv
+Digemenu:  Sat Sep 21 14:25:36 2013: exitCode == 0
+Digemenu:  Sat Sep 21 14:25:47 2013: executing command play_video -t "I Hate My Kitchen" /content/videos/ASA-IhateMyKitchen-AnEntertainingKitchen_ENG.mkv
+Digemenu:  Sat Sep 21 14:26:38 2013: returning from command play_video -t "I Hate My Kitchen" /content/videos/ASA-IhateMyKitchen-AnEntertainingKitchen_ENG.mkv
+Digemenu:  Sat Sep 21 14:26:38 2013: exitCode == 0
+Digemenu:  Sat Sep 21 14:26:39 2013: Starting menu DIY
+Digemenu:  Sat Sep 21 14:26:39 2013: Starting menu HGTV
+Digemenu:  Sat Sep 21 14:26:41 2013: Returned to main menu Main Menu
+Digemenu:  Sat Sep 21 14:26:48 2013: Starting menu Favorite Classic Movies
+Digemenu:  Sat Sep 21 14:26:50 2013: Starting menu All Time Favorites
+Digemenu:  Sat Sep 21 14:27:12 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Sat Sep 21 14:27:12 2013: Detailing item Chasing Mavericks
+Digemenu:  Sat Sep 21 14:27:14 2013: Detailing item Charlie and the Chocolate Factory
+Digemenu:  Sat Sep 21 14:27:17 2013: executing command play_video -t "Charlie and the Chocolate Factory" /content/videos/CharlieAndTheChocolateFactory_ENG.mkv
+Digemenu:  Sat Sep 21 14:33:27 2013: returning from command play_video -t "Charlie and the Chocolate Factory" /content/videos/CharlieAndTheChocolateFactory_ENG.mkv
+Digemenu:  Sat Sep 21 14:33:27 2013: exitCode == 0
+Digemenu:  Sat Sep 21 14:33:46 2013: executing command play_video -t "Charlie and the Chocolate Factory" /content/videos/CharlieAndTheChocolateFactory_ENG.mkv
+Digemenu:  Sat Sep 21 14:34:26 2013: returning from command play_video -t "Charlie and the Chocolate Factory" /content/videos/CharlieAndTheChocolateFactory_ENG.mkv
+Digemenu:  Sat Sep 21 14:34:26 2013: exitCode == 0
+Digemenu:  Sat Sep 21 14:34:29 2013: executing command play_video -t "Charlie and the Chocolate Factory" /content/videos/CharlieAndTheChocolateFactory_ENG.mkv
+Digemenu:  Sat Sep 21 14:40:31 2013: returning from command play_video -t "Charlie and the Chocolate Factory" /content/videos/CharlieAndTheChocolateFactory_ENG.mkv
+Digemenu:  Sat Sep 21 14:40:31 2013: exitCode == 0
+Digemenu:  Sat Sep 21 14:40:50 2013: executing command play_video -t "Charlie and the Chocolate Factory" /content/videos/CharlieAndTheChocolateFactory_ENG.mkv
+Digemenu:  Sat Sep 21 15:14:14 2013: returning from command play_video -t "Charlie and the Chocolate Factory" /content/videos/CharlieAndTheChocolateFactory_ENG.mkv
+Digemenu:  Sat Sep 21 15:14:14 2013: exitCode == 0
+Digemenu:  Sat Sep 21 15:14:14 2013: Shutting down player!
+Digemenu:  Sat Sep 21 15:15:09 2013: Starting digemenu version 2
+Digemenu:  Sat Sep 21 15:15:17 2013: Starting main menu Main Menu
+Digemenu:  Sat Sep 21 15:15:27 2013: Starting menu HGTV
+Digemenu:  Sat Sep 21 15:15:31 2013: Starting menu HGTV
+Digemenu:  Sat Sep 21 15:15:38 2013: Starting detailsMenu for HGTV
+Digemenu:  Sat Sep 21 15:15:38 2013: Detailing item You Live in What?
+Digemenu:  Sat Sep 21 15:16:36 2013: Starting menu HGTV
+Digemenu:  Sat Sep 21 15:16:39 2013: Starting menu DIY
+Digemenu:  Sat Sep 21 15:16:55 2013: Starting detailsMenu for DIY
+Digemenu:  Sat Sep 21 15:16:55 2013: Detailing item I Hate My Yard!
+Digemenu:  Sat Sep 21 15:17:04 2013: Starting menu DIY
+Digemenu:  Sat Sep 21 15:17:12 2013: Starting detailsMenu for DIY
+Digemenu:  Sat Sep 21 15:17:12 2013: Detailing item Family Under Construction
+Digemenu:  Sat Sep 21 15:17:15 2013: Detailing item I Hate My Yard!
+Digemenu:  Sat Sep 21 15:17:17 2013: Detailing item Family Under Construction
+Digemenu:  Sat Sep 21 15:17:24 2013: executing command play_video -t "Family Under Construction" /content/ads/UWYouthConcussions30s_ENG.mkv /content/videos/ASA-FamilyUnderConstruction-TheGabrielFamily_ENG.mkv
+Digemenu:  Sat Sep 21 15:19:07 2013: returning from command play_video -t "Family Under Construction" /content/ads/UWYouthConcussions30s_ENG.mkv /content/videos/ASA-FamilyUnderConstruction-TheGabrielFamily_ENG.mkv
+Digemenu:  Sat Sep 21 15:19:07 2013: exitCode == 0
+Digemenu:  Sat Sep 21 15:19:54 2013: Starting menu HGTV
+Digemenu:  Sat Sep 21 15:19:55 2013: Starting menu TV Shows
+Digemenu:  Sat Sep 21 15:20:53 2013: Starting menu Travel and Food
+Digemenu:  Sat Sep 21 15:20:54 2013: Starting menu HGTV
+Digemenu:  Sat Sep 21 15:20:59 2013: Starting menu DIY
+Digemenu:  Sat Sep 21 15:21:06 2013: Starting detailsMenu for DIY
+Digemenu:  Sat Sep 21 15:21:06 2013: Detailing item House Crashers
+Digemenu:  Sat Sep 21 15:21:09 2013: executing command play_video -t "House Crashers" /content/ads/ASA-UWMedicine-Issaquah_ENG.mkv /content/videos/ASA-HouseCrashers-MediaGameRoom_ENG.mkv
+Digemenu:  Sat Sep 21 15:27:04 2013: returning from command play_video -t "House Crashers" /content/ads/ASA-UWMedicine-Issaquah_ENG.mkv /content/videos/ASA-HouseCrashers-MediaGameRoom_ENG.mkv
+Digemenu:  Sat Sep 21 15:27:04 2013: exitCode == 0
+Digemenu:  Sat Sep 21 15:27:08 2013: Returned to main menu Main Menu
+Digemenu:  Sat Sep 21 15:27:13 2013: Starting menu TV Shows
+Digemenu:  Sat Sep 21 15:27:35 2013: Starting menu HGTV
+Digemenu:  Sat Sep 21 15:27:45 2013: Starting menu DIY
+Digemenu:  Sat Sep 21 15:27:53 2013: Starting detailsMenu for DIY
+Digemenu:  Sat Sep 21 15:27:53 2013: Detailing item I Hate My Kitchen
+Digemenu:  Sat Sep 21 15:27:55 2013: executing command play_video -t "I Hate My Kitchen" /content/videos/ASA-IhateMyKitchen-AnEntertainingKitchen_ENG.mkv
+Digemenu:  Sat Sep 21 15:49:42 2013: returning from command play_video -t "I Hate My Kitchen" /content/videos/ASA-IhateMyKitchen-AnEntertainingKitchen_ENG.mkv
+Digemenu:  Sat Sep 21 15:49:42 2013: exitCode == 0
+Digemenu:  Sat Sep 21 15:49:46 2013: Starting menu Sports
+Digemenu:  Sat Sep 21 15:49:51 2013: executing command stopwifi.sh
+Digemenu:  Sat Sep 21 15:49:53 2013: returning from command stopwifi.sh
+Digemenu:  Sat Sep 21 15:49:53 2013: exitCode == 0
+Digemenu:  Sat Sep 21 15:49:53 2013: executing command !startwifi /content/menu/images/BrowserWarning.png
+Digemenu:  Sat Sep 21 15:50:11 2013: returning from command !startwifi /content/menu/images/BrowserWarning.png
+Digemenu:  Sat Sep 21 15:50:11 2013: exitCode == 0
+Digemenu:  Sat Sep 21 15:50:11 2013: executing command run_browser.sh www.alaskaair.com
+Digemenu:  Sat Sep 21 15:50:23 2013: returning from command run_browser.sh www.alaskaair.com
+Digemenu:  Sat Sep 21 15:50:23 2013: exitCode != 0
+Digemenu:  Sat Sep 21 15:50:23 2013: exitCode == RETURN_TO_HOME
+Digemenu:  Sat Sep 21 15:50:23 2013: Returned to main menu Main Menu
+Digemenu:  Sat Sep 21 15:50:27 2013: Starting menu Kids Only!
+Digemenu:  Sat Sep 21 15:50:30 2013: Starting menu Movies
+Digemenu:  Sat Sep 21 15:50:39 2013: Starting detailsMenu for Movies
+Digemenu:  Sat Sep 21 15:50:39 2013: Detailing item Mr. Popper's Penguins
+Digemenu:  Sat Sep 21 15:50:43 2013: executing command play_video -t "Mr. Popper's Penguins" /content/videos/MrPoppersPenguins_ENG.mkv
+Digemenu:  Sat Sep 21 15:57:07 2013: returning from command play_video -t "Mr. Popper's Penguins" /content/videos/MrPoppersPenguins_ENG.mkv
+Digemenu:  Sat Sep 21 15:57:07 2013: exitCode == 0
+Digemenu:  Sat Sep 21 15:57:16 2013: Starting menu Favorite Classic Movies
+Digemenu:  Sat Sep 21 15:57:24 2013: Starting menu Just for Kids
+Digemenu:  Sat Sep 21 15:57:32 2013: Starting menu Favorite Classic Movies
+Digemenu:  Sat Sep 21 15:57:40 2013: Starting menu Oldies but Goodies
+Digemenu:  Sat Sep 21 15:57:55 2013: Starting menu Health
+Digemenu:  Sat Sep 21 15:57:58 2013: executing command !digetunes
+Digemenu:  Sat Sep 21 16:02:56 2013: returning from command !digetunes
+Digemenu:  Sat Sep 21 16:02:56 2013: exitCode != 0
+Digemenu:  Sat Sep 21 16:02:56 2013: exitCode == RETURN_TO_HOME
+Digemenu:  Sat Sep 21 16:02:56 2013: Returned to main menu Main Menu
+Digemenu:  Sat Sep 21 16:03:06 2013: Starting menu TV Shows
+Digemenu:  Sat Sep 21 16:03:32 2013: Starting detailsMenu for TV Shows
+Digemenu:  Sat Sep 21 16:03:32 2013: Detailing item The Following
+Digemenu:  Sat Sep 21 16:03:38 2013: Detailing item The Mentalist
+Digemenu:  Sat Sep 21 16:03:39 2013: Detailing item The Middle
+Digemenu:  Sat Sep 21 16:03:42 2013: Detailing item Two and a Half Men
+Digemenu:  Sat Sep 21 16:03:45 2013: Detailing item Maltin on Movies
+Digemenu:  Sat Sep 21 16:03:47 2013: Detailing item Countdown
+Digemenu:  Sat Sep 21 16:03:49 2013: Detailing item Countdown
+Digemenu:  Sat Sep 21 16:03:51 2013: Detailing item Countdown
+Digemenu:  Sat Sep 21 16:03:52 2013: Detailing item Countdown
+Digemenu:  Sat Sep 21 16:03:53 2013: Detailing item Countdown
+Digemenu:  Sat Sep 21 16:03:54 2013: Detailing item Maltin on Movies
+Digemenu:  Sat Sep 21 16:03:55 2013: Detailing item Two and a Half Men
+Digemenu:  Sat Sep 21 16:03:57 2013: executing command play_video -t "Two and a Half Men" /content/videos/UAL-TwoAndAHalfMen-GrabAFeatherAndGetInLine_ENG.mkv
+Digemenu:  Sat Sep 21 16:14:08 2013: returning from command play_video -t "Two and a Half Men" /content/videos/UAL-TwoAndAHalfMen-GrabAFeatherAndGetInLine_ENG.mkv
+Digemenu:  Sat Sep 21 16:14:08 2013: exitCode == 0
+Digemenu:  Sat Sep 21 16:14:15 2013: Shutting down player!
+Digemenu:  Sun Sep 22 04:57:30 2013: Starting digemenu version 2
+Digemenu:  Sun Sep 22 04:57:39 2013: Starting main menu Main Menu
+Digemenu:  Sun Sep 22 04:59:57 2013: Starting menu TV Shows
+Digemenu:  Sun Sep 22 05:00:02 2013: Starting detailsMenu for TV Shows
+Digemenu:  Sun Sep 22 05:00:02 2013: Detailing item Anger Management
+Digemenu:  Sun Sep 22 05:00:05 2013: Detailing item Anger Management
+Digemenu:  Sun Sep 22 05:00:06 2013: Detailing item Anger Management
+Digemenu:  Sun Sep 22 05:00:07 2013: Detailing item Friends
+Digemenu:  Sun Sep 22 05:00:09 2013: Detailing item New Girl
+Digemenu:  Sun Sep 22 05:00:21 2013: executing command play_video -t "New Girl" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/UAL-NewGirl-QuickHardeningCaulk_ENG.mkv
+Digemenu:  Sun Sep 22 05:00:42 2013: returning from command play_video -t "New Girl" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/UAL-NewGirl-QuickHardeningCaulk_ENG.mkv
+Digemenu:  Sun Sep 22 05:00:42 2013: exitCode == 0
+Digemenu:  Sun Sep 22 05:00:43 2013: Detailing item Suburgatory
+Digemenu:  Sun Sep 22 05:00:46 2013: Detailing item The Big Bang Theory
+Digemenu:  Sun Sep 22 05:00:47 2013: Detailing item The Big Bang Theory
+Digemenu:  Sun Sep 22 05:00:48 2013: Detailing item The Following
+Digemenu:  Sun Sep 22 05:00:50 2013: Detailing item The Mentalist
+Digemenu:  Sun Sep 22 05:00:52 2013: Detailing item The Middle
+Digemenu:  Sun Sep 22 05:00:53 2013: Detailing item Two and a Half Men
+Digemenu:  Sun Sep 22 05:00:55 2013: Detailing item Maltin on Movies
+Digemenu:  Sun Sep 22 05:00:57 2013: Detailing item Countdown
+Digemenu:  Sun Sep 22 05:00:58 2013: Detailing item Countdown
+Digemenu:  Sun Sep 22 05:00:59 2013: Detailing item Countdown
+Digemenu:  Sun Sep 22 05:00:59 2013: Detailing item Next Stop
+Digemenu:  Sun Sep 22 05:01:00 2013: Detailing item Next Stop
+Digemenu:  Sun Sep 22 05:01:03 2013: Detailing item Next Stop
+Digemenu:  Sun Sep 22 05:01:04 2013: Detailing item Countdown
+Digemenu:  Sun Sep 22 05:01:06 2013: Detailing item Countdown
+Digemenu:  Sun Sep 22 05:01:07 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Sun Sep 22 05:01:13 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Sun Sep 22 05:01:13 2013: Detailing item Monsters University
+Digemenu:  Sun Sep 22 05:01:14 2013: Detailing item The Great Gatsby
+Digemenu:  Sun Sep 22 05:01:17 2013: Detailing item The Internship
+Digemenu:  Sun Sep 22 05:01:19 2013: Detailing item The East
+Digemenu:  Sun Sep 22 05:01:23 2013: Detailing item 42
+Digemenu:  Sun Sep 22 05:01:26 2013: Detailing item Epic
+Digemenu:  Sun Sep 22 05:01:30 2013: Starting menu Favorite Classic Movies
+Digemenu:  Sun Sep 22 05:01:35 2013: Starting menu All Time Favorites
+Digemenu:  Sun Sep 22 05:02:21 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Sun Sep 22 05:02:21 2013: Detailing item In Time
+Digemenu:  Sun Sep 22 05:02:29 2013: Detailing item Inception
+Digemenu:  Sun Sep 22 05:02:31 2013: Detailing item Invictus
+Digemenu:  Sun Sep 22 05:02:33 2013: Detailing item J. Edgar
+Digemenu:  Sun Sep 22 05:02:34 2013: Detailing item Jack the Giant Slayer
+Digemenu:  Sun Sep 22 05:02:36 2013: Detailing item Life as We Know It
+Digemenu:  Sun Sep 22 05:02:38 2013: Detailing item Life of Pi
+Digemenu:  Sun Sep 22 05:02:39 2013: Detailing item Marley and Me
+Digemenu:  Sun Sep 22 05:02:41 2013: Detailing item Million Dollar Baby
+Digemenu:  Sun Sep 22 05:02:42 2013: Detailing item Parental Guidance
+Digemenu:  Sun Sep 22 05:02:44 2013: Detailing item Pleasantville
+Digemenu:  Sun Sep 22 05:02:45 2013: Detailing item Prometheus
+Digemenu:  Sun Sep 22 05:02:47 2013: Detailing item Rio
+Digemenu:  Sun Sep 22 05:02:49 2013: Detailing item Rock of Ages
+Digemenu:  Sun Sep 22 05:02:50 2013: Detailing item Ruby Sparks
+Digemenu:  Sun Sep 22 05:02:52 2013: Detailing item Sherlock Holmes: A Game of Shadows
+Digemenu:  Sun Sep 22 05:02:54 2013: Detailing item Shine
+Digemenu:  Sun Sep 22 05:02:57 2013: Detailing item Slumdog Millionaire
+Digemenu:  Sun Sep 22 05:02:58 2013: Detailing item Superman
+Digemenu:  Sun Sep 22 05:02:59 2013: Detailing item Taken 2
+Digemenu:  Sun Sep 22 05:03:03 2013: Detailing item The Big Year
+Digemenu:  Sun Sep 22 05:03:06 2013: Detailing item The Blind Side
+Digemenu:  Sun Sep 22 05:03:07 2013: Detailing item The Campaign
+Digemenu:  Sun Sep 22 05:03:10 2013: Detailing item The Dark Knight Rises
+Digemenu:  Sun Sep 22 05:03:12 2013: Detailing item The Descendants
+Digemenu:  Sun Sep 22 05:03:20 2013: Detailing item The Hobbit: An Unexpected Journey
+Digemenu:  Sun Sep 22 05:03:21 2013: Detailing item The Incredible Burt Wonderstone
+Digemenu:  Sun Sep 22 05:03:23 2013: Detailing item The Three Stooges
+Digemenu:  Sun Sep 22 05:03:24 2013: Detailing item The Town
+Digemenu:  Sun Sep 22 05:03:26 2013: Detailing item Trouble with the Curve
+Digemenu:  Sun Sep 22 05:03:28 2013: Detailing item Unknown
+Digemenu:  Sun Sep 22 05:03:29 2013: Detailing item Unstoppable
+Digemenu:  Sun Sep 22 05:03:32 2013: Detailing item Wall Street
+Digemenu:  Sun Sep 22 05:03:34 2013: Detailing item Wall Street: Money Never Sleeps
+Digemenu:  Sun Sep 22 05:03:35 2013: Detailing item Water for Elephants
+Digemenu:  Sun Sep 22 05:03:37 2013: Detailing item We Bought a Zoo
+Digemenu:  Sun Sep 22 05:03:38 2013: Detailing item Won't Back Down
+Digemenu:  Sun Sep 22 05:03:40 2013: Detailing item Wrath of the Titans
+Digemenu:  Sun Sep 22 05:03:41 2013: Detailing item X-Men: First Class
+Digemenu:  Sun Sep 22 05:03:44 2013: Detailing item Wrath of the Titans
+Digemenu:  Sun Sep 22 05:03:45 2013: Detailing item Won't Back Down
+Digemenu:  Sun Sep 22 05:03:46 2013: Detailing item We Bought a Zoo
+Digemenu:  Sun Sep 22 05:03:47 2013: Detailing item Water for Elephants
+Digemenu:  Sun Sep 22 05:03:49 2013: Detailing item Wall Street: Money Never Sleeps
+Digemenu:  Sun Sep 22 05:03:50 2013: Detailing item Wall Street
+Digemenu:  Sun Sep 22 05:03:51 2013: Detailing item Unstoppable
+Digemenu:  Sun Sep 22 05:03:52 2013: Detailing item Unknown
+Digemenu:  Sun Sep 22 05:03:53 2013: Detailing item Trouble with the Curve
+Digemenu:  Sun Sep 22 05:03:55 2013: Detailing item The Town
+Digemenu:  Sun Sep 22 05:03:57 2013: Detailing item The Three Stooges
+Digemenu:  Sun Sep 22 05:03:58 2013: Detailing item The Incredible Burt Wonderstone
+Digemenu:  Sun Sep 22 05:03:59 2013: Detailing item The Hobbit: An Unexpected Journey
+Digemenu:  Sun Sep 22 05:04:00 2013: Detailing item The Descendants
+Digemenu:  Sun Sep 22 05:04:05 2013: executing command play_video -t "The Descendants" /content/ads/UWYouthConcussions30s_ENG.mkv /content/videos/TheDescendants_ENG.mkv
+Digemenu:  Sun Sep 22 05:05:15 2013: returning from command play_video -t "The Descendants" /content/ads/UWYouthConcussions30s_ENG.mkv /content/videos/TheDescendants_ENG.mkv
+Digemenu:  Sun Sep 22 05:05:15 2013: exitCode == 0
+Digemenu:  Sun Sep 22 05:05:17 2013: Returned to main menu Main Menu
+Digemenu:  Sun Sep 22 05:05:37 2013: Starting menu Favorite Classic Movies
+Digemenu:  Sun Sep 22 05:05:39 2013: Starting menu All Time Favorites
+Digemenu:  Sun Sep 22 05:06:16 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Sun Sep 22 05:06:16 2013: Detailing item The Descendants
+Digemenu:  Sun Sep 22 05:06:17 2013: executing command play_video -t "The Descendants" /content/ads/UWYouthConcussions30s_ENG.mkv /content/videos/TheDescendants_ENG.mkv
+Digemenu:  Sun Sep 22 06:22:26 2013: returning from command play_video -t "The Descendants" /content/ads/UWYouthConcussions30s_ENG.mkv /content/videos/TheDescendants_ENG.mkv
+Digemenu:  Sun Sep 22 06:22:26 2013: exitCode == 0
+Digemenu:  Sun Sep 22 06:23:20 2013: Starting digemenu version 2
+Digemenu:  Sun Sep 22 06:23:28 2013: Starting main menu Main Menu
+Digemenu:  Sun Sep 22 06:23:32 2013: Starting menu Favorite Classic Movies
+Digemenu:  Sun Sep 22 06:23:33 2013: Starting menu All Time Favorites
+Digemenu:  Sun Sep 22 06:23:50 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Sun Sep 22 06:23:50 2013: Detailing item Crazy, Stupid, Love.
+Digemenu:  Sun Sep 22 06:23:58 2013: Detailing item Clash of the Titans
+Digemenu:  Sun Sep 22 06:24:01 2013: Detailing item Crazy, Stupid, Love.
+Digemenu:  Sun Sep 22 06:24:02 2013: Detailing item Dark Shadows
+Digemenu:  Sun Sep 22 06:24:04 2013: Detailing item Date Night
+Digemenu:  Sun Sep 22 06:24:05 2013: Detailing item Diary of a Wimpy Kid: Dog Days
+Digemenu:  Sun Sep 22 06:24:06 2013: Detailing item Dolphin Tale
+Digemenu:  Sun Sep 22 06:24:08 2013: Detailing item Due Date
+Digemenu:  Sun Sep 22 06:24:09 2013: Detailing item Firehouse Dog
+Digemenu:  Sun Sep 22 06:24:10 2013: Detailing item Green Lantern
+Digemenu:  Sun Sep 22 06:24:11 2013: Detailing item Gulliver's Travels
+Digemenu:  Sun Sep 22 06:24:12 2013: Detailing item Happy Feet Two
+Digemenu:  Sun Sep 22 06:24:13 2013: Detailing item Harry Potter and the Deathly Hallows: Part 1
+Digemenu:  Sun Sep 22 06:24:15 2013: Detailing item Harry Potter and the Deathly Hallows: Part 2
+Digemenu:  Sun Sep 22 06:24:16 2013: Detailing item Hereafter
+Digemenu:  Sun Sep 22 06:24:18 2013: Detailing item Hitchcock
+Digemenu:  Sun Sep 22 06:24:19 2013: Detailing item In Time
+Digemenu:  Sun Sep 22 06:24:22 2013: Detailing item Inception
+Digemenu:  Sun Sep 22 06:24:24 2013: Detailing item Invictus
+Digemenu:  Sun Sep 22 06:24:25 2013: Detailing item J. Edgar
+Digemenu:  Sun Sep 22 06:24:28 2013: Detailing item Jack the Giant Slayer
+Digemenu:  Sun Sep 22 06:24:29 2013: Detailing item Life as We Know It
+Digemenu:  Sun Sep 22 06:24:31 2013: Detailing item Life of Pi
+Digemenu:  Sun Sep 22 06:24:32 2013: Detailing item Marley and Me
+Digemenu:  Sun Sep 22 06:24:33 2013: Detailing item Million Dollar Baby
+Digemenu:  Sun Sep 22 06:24:34 2013: Detailing item Parental Guidance
+Digemenu:  Sun Sep 22 06:24:35 2013: Detailing item Pleasantville
+Digemenu:  Sun Sep 22 06:24:36 2013: Detailing item Prometheus
+Digemenu:  Sun Sep 22 06:24:37 2013: Detailing item Rio
+Digemenu:  Sun Sep 22 06:24:39 2013: Detailing item Rock of Ages
+Digemenu:  Sun Sep 22 06:24:40 2013: Detailing item Ruby Sparks
+Digemenu:  Sun Sep 22 06:24:42 2013: Detailing item Sherlock Holmes: A Game of Shadows
+Digemenu:  Sun Sep 22 06:24:43 2013: Detailing item Shine
+Digemenu:  Sun Sep 22 06:24:44 2013: Detailing item Slumdog Millionaire
+Digemenu:  Sun Sep 22 06:24:45 2013: Detailing item Superman
+Digemenu:  Sun Sep 22 06:24:46 2013: Detailing item Taken 2
+Digemenu:  Sun Sep 22 06:24:47 2013: Detailing item The Big Year
+Digemenu:  Sun Sep 22 06:24:48 2013: Detailing item The Blind Side
+Digemenu:  Sun Sep 22 06:24:49 2013: Detailing item The Campaign
+Digemenu:  Sun Sep 22 06:24:53 2013: Detailing item The Dark Knight Rises
+Digemenu:  Sun Sep 22 06:24:54 2013: Detailing item The Descendants
+Digemenu:  Sun Sep 22 06:25:00 2013: executing command play_video -t "The Descendants" /content/ads/UWYouthConcussions30s_ENG.mkv /content/videos/TheDescendants_ENG.mkv
+Digemenu:  Sun Sep 22 07:28:11 2013: returning from command play_video -t "The Descendants" /content/ads/UWYouthConcussions30s_ENG.mkv /content/videos/TheDescendants_ENG.mkv
+Digemenu:  Sun Sep 22 07:28:11 2013: exitCode != 0
+Digemenu:  Sun Sep 22 07:28:11 2013: exitCode == RETURN_TO_HOME
+Digemenu:  Sun Sep 22 07:28:11 2013: Returned to main menu Main Menu
+Digemenu:  Sun Sep 22 07:28:37 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Sun Sep 22 07:28:46 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Sun Sep 22 07:28:46 2013: Detailing item The East
+Digemenu:  Sun Sep 22 07:29:13 2013: Detailing item The Internship
+Digemenu:  Sun Sep 22 07:29:17 2013: Detailing item The Great Gatsby
+Digemenu:  Sun Sep 22 07:30:17 2013: Detailing item The Internship
+Digemenu:  Sun Sep 22 07:30:18 2013: Detailing item The East
+Digemenu:  Sun Sep 22 07:30:19 2013: Detailing item 42
+Digemenu:  Sun Sep 22 07:30:21 2013: Detailing item Epic
+Digemenu:  Sun Sep 22 07:30:39 2013: Starting menu Favorite Classic Movies
+Digemenu:  Sun Sep 22 07:30:44 2013: Starting menu All Time Favorites
+Digemenu:  Sun Sep 22 07:30:48 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Sun Sep 22 07:30:48 2013: Detailing item A Good Day to Die Hard
+Digemenu:  Sun Sep 22 07:30:50 2013: Detailing item Argo
+Digemenu:  Sun Sep 22 07:30:53 2013: Detailing item Avatar
+Digemenu:  Sun Sep 22 07:30:55 2013: Detailing item Beasts of the Southern Wild
+Digemenu:  Sun Sep 22 07:30:56 2013: Detailing item Avatar
+Digemenu:  Sun Sep 22 07:31:00 2013: Detailing item Beasts of the Southern Wild
+Digemenu:  Sun Sep 22 07:31:05 2013: Detailing item Best Exotic Marigold Hotel
+Digemenu:  Sun Sep 22 07:31:12 2013: Detailing item Black Swan
+Digemenu:  Sun Sep 22 07:31:17 2013: Detailing item Born To Be Wild
+Digemenu:  Sun Sep 22 07:31:29 2013: Detailing item Broken City
+Digemenu:  Sun Sep 22 07:31:37 2013: Detailing item Charlie and the Chocolate Factory
+Digemenu:  Sun Sep 22 07:31:40 2013: Detailing item Chasing Mavericks
+Digemenu:  Sun Sep 22 07:31:41 2013: Detailing item Clash of the Titans
+Digemenu:  Sun Sep 22 07:31:43 2013: Detailing item Crazy, Stupid, Love.
+Digemenu:  Sun Sep 22 07:32:29 2013: executing command play_video -t "Crazy, Stupid, Love." /content/ads/MISSINGAD /content/videos/CrazyStupidLove-ED_ENG_eng.mkv
+Digemenu:  Sun Sep 22 08:58:24 2013: Shutting down player!
+Digemenu:  Sun Sep 22 11:54:32 2013: Starting digemenu version 2
+Digemenu:  Sun Sep 22 12:24:25 2013: Starting digemenu version 2
+Digemenu:  Sun Sep 22 12:24:34 2013: Starting main menu Main Menu
+Digemenu:  Sun Sep 22 12:26:11 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Sun Sep 22 12:26:45 2013: Starting menu Favorite Classic Movies
+Digemenu:  Sun Sep 22 12:26:47 2013: Starting menu All Time Favorites
+Digemenu:  Sun Sep 22 12:27:57 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Sun Sep 22 12:27:57 2013: Detailing item J. Edgar
+Digemenu:  Sun Sep 22 12:28:00 2013: Detailing item Invictus
+Digemenu:  Sun Sep 22 12:28:04 2013: Starting menu All Time Favorites
+Digemenu:  Sun Sep 22 12:28:30 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Sun Sep 22 12:28:30 2013: Detailing item Life of Pi
+Digemenu:  Sun Sep 22 12:30:09 2013: executing command play_video -t "Life of Pi" /content/videos/LifeOfPi-TH_ENG_eng.mkv
+Digemenu:  Sun Sep 22 14:35:32 2013: returning from command play_video -t "Life of Pi" /content/videos/LifeOfPi-TH_ENG_eng.mkv
+Digemenu:  Sun Sep 22 14:35:32 2013: exitCode != 0
+Digemenu:  Sun Sep 22 14:35:32 2013: exitCode == RETURN_TO_HOME
+Digemenu:  Sun Sep 22 14:35:32 2013: Returned to main menu Main Menu
+Digemenu:  Mon Sep 23 12:51:30 2013: Starting digemenu version 2
+Digemenu:  Mon Sep 23 12:51:39 2013: Starting main menu Main Menu
+Digemenu:  Mon Sep 23 14:17:39 2013: Starting digemenu version 2
+Digemenu:  Mon Sep 23 14:17:48 2013: Starting main menu Main Menu
+Digemenu:  Mon Sep 23 14:17:56 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Mon Sep 23 14:18:34 2013: Starting menu TV Shows
+Digemenu:  Mon Sep 23 14:18:59 2013: Starting menu Favorite Classic Movies
+Digemenu:  Mon Sep 23 14:19:03 2013: Starting menu All Time Favorites
+Digemenu:  Mon Sep 23 14:19:54 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Mon Sep 23 14:19:54 2013: Detailing item Inception
+Digemenu:  Mon Sep 23 14:20:01 2013: executing command play_video -t "Inception" /content/ads/ASA-UWMedicine-Ravenna_ENG.mkv /content/videos/Inception_ENGFRE_dut.mkv
+Digemenu:  Mon Sep 23 14:20:26 2013: returning from command play_video -t "Inception" /content/ads/ASA-UWMedicine-Ravenna_ENG.mkv /content/videos/Inception_ENGFRE_dut.mkv
+Digemenu:  Mon Sep 23 14:20:26 2013: exitCode == 0
+Digemenu:  Mon Sep 23 14:20:28 2013: executing command play_video -t "Inception" /content/ads/ASA-UWMedicine-Ravenna_ENG.mkv /content/videos/Inception_ENGFRE_dut.mkv
+Digemenu:  Mon Sep 23 16:46:14 2013: returning from command play_video -t "Inception" /content/ads/ASA-UWMedicine-Ravenna_ENG.mkv /content/videos/Inception_ENGFRE_dut.mkv
+Digemenu:  Mon Sep 23 16:46:14 2013: exitCode != 0
+Digemenu:  Mon Sep 23 16:46:14 2013: exitCode == RETURN_TO_HOME
+Digemenu:  Mon Sep 23 16:46:15 2013: Returned to main menu Main Menu
+Digemenu:  Tue Sep 24 21:30:45 2013: Starting digemenu version 2
+Digemenu:  Tue Sep 24 21:30:53 2013: Starting main menu Main Menu
+Digemenu:  Tue Sep 24 21:37:16 2013: Starting menu TV Shows
+Digemenu:  Tue Sep 24 21:37:20 2013: Returned to main menu Main Menu
+Digemenu:  Tue Sep 24 21:37:22 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Tue Sep 24 21:38:18 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Tue Sep 24 21:38:18 2013: Detailing item The Great Gatsby
+Digemenu:  Tue Sep 24 21:40:08 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Tue Sep 24 21:40:10 2013: Returned to main menu Main Menu
+Digemenu:  Tue Sep 24 21:40:12 2013: Starting menu Favorite Classic Movies
+Digemenu:  Tue Sep 24 21:40:17 2013: Starting menu Oldies but Goodies
+Digemenu:  Tue Sep 24 21:40:38 2013: Starting menu TV Shows
+Digemenu:  Tue Sep 24 21:41:23 2013: Starting menu HGTV
+Digemenu:  Tue Sep 24 21:41:27 2013: Starting menu DIY
+Digemenu:  Tue Sep 24 21:41:34 2013: Starting menu Sports
+Digemenu:  Tue Sep 24 21:41:45 2013: executing command !digetunes
+Digemenu:  Tue Sep 24 21:42:13 2013: Returned to main menu Main Menu
+Digemenu:  Tue Sep 24 21:43:17 2013: Starting digemenu version 2
+Digemenu:  Tue Sep 24 21:43:26 2013: Starting main menu Main Menu
+Digemenu:  Tue Sep 24 21:45:10 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Tue Sep 24 21:45:30 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Tue Sep 24 21:45:30 2013: Detailing item The Great Gatsby
+Digemenu:  Tue Sep 24 21:45:42 2013: executing command play_video  -u 0  -f DejaVuSans:16 -t "The Great Gatsby" /content/ads/ASA-BankOfAmerica-30sec_ENG.mkv /content/videos/TheGreatGatsby-ED_ENG_eng.mkv
+Digemenu:  Tue Sep 24 23:21:22 2013: returning from command play_video  -u 0  -f DejaVuSans:16 -t "The Great Gatsby" /content/ads/ASA-BankOfAmerica-30sec_ENG.mkv /content/videos/TheGreatGatsby-ED_ENG_eng.mkv
+Digemenu:  Tue Sep 24 23:21:22 2013: exitCode == 0
+Digemenu:  Tue Sep 24 23:21:57 2013: executing command play_video  -u 0  -f DejaVuSans:16 -t "The Great Gatsby" /content/ads/ASA-BankOfAmerica-30sec_ENG.mkv /content/videos/TheGreatGatsby-ED_ENG_eng.mkv
+Digemenu:  Wed Sep 25 00:54:16 2013: returning from command play_video  -u 0  -f DejaVuSans:16 -t "The Great Gatsby" /content/ads/ASA-BankOfAmerica-30sec_ENG.mkv /content/videos/TheGreatGatsby-ED_ENG_eng.mkv
+Digemenu:  Wed Sep 25 00:54:16 2013: exitCode == 0
+Digemenu:  Wed Sep 25 00:57:04 2013: Returned to main menu Main Menu
+Digemenu:  Wed Sep 25 00:58:04 2013: Starting menu TV Shows
+Digemenu:  Wed Sep 25 00:58:36 2013: Starting menu Health
+Digemenu:  Wed Sep 25 00:58:42 2013: Starting menu Discover Hawaii
+Digemenu:  Wed Sep 25 00:58:53 2013: executing command stopwifi.sh
+Digemenu:  Wed Sep 25 00:58:54 2013: returning from command stopwifi.sh
+Digemenu:  Wed Sep 25 00:58:54 2013: exitCode == 0
+Digemenu:  Wed Sep 25 00:58:54 2013: executing command !startwifi /content/menu/images/BrowserWarning.png
+Digemenu:  Wed Sep 25 00:59:45 2013: Returned to main menu Main Menu
+Digemenu:  Wed Sep 25 13:53:24 2013: Starting digemenu version 2
+Digemenu:  Wed Sep 25 13:53:33 2013: Starting main menu Main Menu
+Digemenu:  Wed Sep 25 13:54:34 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Wed Sep 25 13:55:09 2013: Returned to main menu Main Menu
+Digemenu:  Wed Sep 25 13:55:11 2013: Starting menu Favorite Classic Movies
+Digemenu:  Wed Sep 25 13:55:15 2013: Starting menu All Time Favorites
+Digemenu:  Wed Sep 25 13:57:42 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Wed Sep 25 13:57:42 2013: Detailing item The Town
+Digemenu:  Wed Sep 25 13:58:05 2013: Starting menu All Time Favorites
+Digemenu:  Wed Sep 25 13:58:07 2013: Starting menu Favorite Classic Movies
+Digemenu:  Wed Sep 25 13:58:12 2013: Starting menu Oldies but Goodies
+Digemenu:  Wed Sep 25 13:58:36 2013: Starting menu Favorite Classic Movies
+Digemenu:  Wed Sep 25 13:58:38 2013: Starting menu All Time Favorites
+Digemenu:  Wed Sep 25 13:58:49 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Wed Sep 25 13:58:49 2013: Detailing item Best Exotic Marigold Hotel
+Digemenu:  Wed Sep 25 13:59:08 2013: Starting menu All Time Favorites
+Digemenu:  Wed Sep 25 13:59:13 2013: Starting menu Sports
+Digemenu:  Wed Sep 25 13:59:16 2013: Returned to main menu Main Menu
+Digemenu:  Wed Sep 25 13:59:25 2013: Starting menu TV Shows
+Digemenu:  Wed Sep 25 14:00:02 2013: Starting detailsMenu for TV Shows
+Digemenu:  Wed Sep 25 14:00:02 2013: Detailing item Maltin on Movies
+Digemenu:  Wed Sep 25 14:00:12 2013: Detailing item Two and a Half Men
+Digemenu:  Wed Sep 25 14:00:19 2013: Detailing item The Middle
+Digemenu:  Wed Sep 25 14:00:21 2013: Detailing item The Mentalist
+Digemenu:  Wed Sep 25 14:00:24 2013: Detailing item The Following
+Digemenu:  Wed Sep 25 14:00:25 2013: Detailing item The Big Bang Theory
+Digemenu:  Wed Sep 25 14:00:28 2013: Detailing item The Big Bang Theory
+Digemenu:  Wed Sep 25 14:00:29 2013: Detailing item Suburgatory
+Digemenu:  Wed Sep 25 14:00:39 2013: Detailing item New Girl
+Digemenu:  Wed Sep 25 14:00:51 2013: Detailing item Friends
+Digemenu:  Wed Sep 25 14:00:55 2013: Detailing item Anger Management
+Digemenu:  Wed Sep 25 14:01:17 2013: Detailing item Anger Management
+Digemenu:  Wed Sep 25 14:01:18 2013: Detailing item 2 Broke Girls
+Digemenu:  Wed Sep 25 14:01:44 2013: executing command play_video -t "2 Broke Girls" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/UAL-2BrokeGirls-AndTheCandyManwich_ENG.mkv
+Digemenu:  Wed Sep 25 14:30:31 2013: returning from command play_video -t "2 Broke Girls" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/UAL-2BrokeGirls-AndTheCandyManwich_ENG.mkv
+Digemenu:  Wed Sep 25 14:30:31 2013: exitCode == 0
+Digemenu:  Wed Sep 25 14:30:38 2013: Starting menu Travel and Food
+Digemenu:  Wed Sep 25 14:30:43 2013: Starting menu Cooking Channel
+Digemenu:  Wed Sep 25 14:30:45 2013: Starting detailsMenu for Cooking Channel
+Digemenu:  Wed Sep 25 14:30:45 2013: Detailing item Unique Eats
+Digemenu:  Wed Sep 25 14:30:54 2013: executing command play_video -t "Unique Eats" /content/ads/ASA-UWMedicineBariatricMedicine30sec_ENG.mkv /content/videos/ASA-UniqueEats-HoustonWeekend_ENG.mkv
+Digemenu:  Wed Sep 25 14:41:36 2013: returning from command play_video -t "Unique Eats" /content/ads/ASA-UWMedicineBariatricMedicine30sec_ENG.mkv /content/videos/ASA-UniqueEats-HoustonWeekend_ENG.mkv
+Digemenu:  Wed Sep 25 14:41:36 2013: exitCode == 0
+Digemenu:  Wed Sep 25 14:44:57 2013: Starting menu Cooking Channel
+Digemenu:  Wed Sep 25 14:44:59 2013: Starting menu Travel and Food
+Digemenu:  Wed Sep 25 14:45:06 2013: Returned to main menu Main Menu
+Digemenu:  Wed Sep 25 14:46:13 2013: Starting menu HGTV
+Digemenu:  Wed Sep 25 14:46:15 2013: Starting menu HGTV
+Digemenu:  Wed Sep 25 14:46:21 2013: Starting detailsMenu for HGTV
+Digemenu:  Wed Sep 25 14:46:21 2013: Detailing item You Live in What?
+Digemenu:  Wed Sep 25 14:46:32 2013: executing command stopwifi.sh
+Digemenu:  Wed Sep 25 14:46:33 2013: returning from command stopwifi.sh
+Digemenu:  Wed Sep 25 14:46:33 2013: exitCode == 0
+Digemenu:  Wed Sep 25 14:46:33 2013: executing command !startwifi /content/menu/images/BrowserWarning.png
+Digemenu:  Wed Sep 25 14:46:54 2013: Returned to main menu Main Menu
+Digemenu:  Wed Sep 25 14:48:23 2013: Starting menu Favorite Classic Movies
+Digemenu:  Wed Sep 25 14:48:27 2013: Starting menu Oldies but Goodies
+Digemenu:  Wed Sep 25 14:48:51 2013: Starting menu Favorite Classic Movies
+Digemenu:  Wed Sep 25 14:48:54 2013: Starting menu All Time Favorites
+Digemenu:  Wed Sep 25 14:48:58 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Wed Sep 25 14:48:58 2013: Detailing item A Good Day to Die Hard
+Digemenu:  Wed Sep 25 14:49:02 2013: Starting menu All Time Favorites
+Digemenu:  Wed Sep 25 14:50:08 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Wed Sep 25 14:50:08 2013: Detailing item Diary of a Wimpy Kid: Dog Days
+Digemenu:  Wed Sep 25 14:50:33 2013: Detailing item Dolphin Tale
+Digemenu:  Wed Sep 25 14:50:36 2013: Detailing item Due Date
+Digemenu:  Wed Sep 25 14:50:54 2013: Detailing item Firehouse Dog
+Digemenu:  Wed Sep 25 14:51:07 2013: Detailing item Green Lantern
+Digemenu:  Wed Sep 25 14:51:10 2013: Detailing item Gulliver's Travels
+Digemenu:  Wed Sep 25 14:51:26 2013: Detailing item Happy Feet Two
+Digemenu:  Wed Sep 25 14:51:30 2013: Detailing item Harry Potter and the Deathly Hallows: Part 1
+Digemenu:  Wed Sep 25 14:51:32 2013: Detailing item Harry Potter and the Deathly Hallows: Part 2
+Digemenu:  Wed Sep 25 14:51:35 2013: Detailing item Hereafter
+Digemenu:  Wed Sep 25 14:51:38 2013: Detailing item Hitchcock
+Digemenu:  Wed Sep 25 14:51:40 2013: Detailing item In Time
+Digemenu:  Wed Sep 25 14:51:52 2013: Detailing item Inception
+Digemenu:  Wed Sep 25 14:51:54 2013: Detailing item Invictus
+Digemenu:  Wed Sep 25 14:51:57 2013: Detailing item J. Edgar
+Digemenu:  Wed Sep 25 14:52:17 2013: executing command play_video -t "J. Edgar" /content/videos/JEdgar-ED_ENG.mkv
+Digemenu:  Wed Sep 25 14:59:09 2013: returning from command play_video -t "J. Edgar" /content/videos/JEdgar-ED_ENG.mkv
+Digemenu:  Wed Sep 25 14:59:09 2013: exitCode == 0
+Digemenu:  Wed Sep 25 14:59:13 2013: executing command play_video -t "J. Edgar" /content/videos/JEdgar-ED_ENG.mkv
+Digemenu:  Wed Sep 25 16:04:14 2013: returning from command play_video -t "J. Edgar" /content/videos/JEdgar-ED_ENG.mkv
+Digemenu:  Wed Sep 25 16:04:14 2013: exitCode == 0
+Digemenu:  Wed Sep 25 16:04:15 2013: executing command play_video -t "J. Edgar" /content/videos/JEdgar-ED_ENG.mkv
+Digemenu:  Wed Sep 25 17:37:40 2013: returning from command play_video -t "J. Edgar" /content/videos/JEdgar-ED_ENG.mkv
+Digemenu:  Wed Sep 25 17:37:40 2013: exitCode == 0
+Digemenu:  Wed Sep 25 17:37:52 2013: Starting menu All Time Favorites
+Digemenu:  Wed Sep 25 17:37:54 2013: Starting menu Favorite Classic Movies
+Digemenu:  Wed Sep 25 17:37:58 2013: Starting menu All Time Favorites
+Digemenu:  Wed Sep 25 17:38:23 2013: executing command stopwifi.sh
+Digemenu:  Wed Sep 25 17:38:24 2013: returning from command stopwifi.sh
+Digemenu:  Wed Sep 25 17:38:24 2013: exitCode == 0
+Digemenu:  Wed Sep 25 17:38:24 2013: executing command !startwifi /content/menu/images/BrowserWarning.png
+Digemenu:  Wed Sep 25 17:38:28 2013: Returned to main menu Main Menu
+Digemenu:  Thu Sep 26 20:11:09 2013: Starting digemenu version 2
+Digemenu:  Thu Sep 26 20:11:18 2013: Starting main menu Main Menu
+Digemenu:  Thu Sep 26 20:13:46 2013: Starting menu Travel and Food
+Digemenu:  Thu Sep 26 20:13:59 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Thu Sep 26 20:14:24 2013: Returned to main menu Main Menu
+Digemenu:  Thu Sep 26 20:14:26 2013: Starting menu Favorite Classic Movies
+Digemenu:  Thu Sep 26 20:14:28 2013: Starting menu All Time Favorites
+Digemenu:  Thu Sep 26 20:14:33 2013: Returned to main menu Main Menu
+Digemenu:  Thu Sep 26 20:14:35 2013: Starting menu Favorite Classic Movies
+Digemenu:  Thu Sep 26 20:14:36 2013: Starting menu All Time Favorites
+Digemenu:  Thu Sep 26 20:16:22 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Thu Sep 26 20:16:22 2013: Detailing item Life as We Know It
+Digemenu:  Thu Sep 26 20:16:32 2013: executing command play_video -t "Life as We Know It" /content/ads/MISSINGAD /content/videos/LifeAsWeKnowIt_ENG_ara.mkv
+Digemenu:  Thu Sep 26 21:32:54 2013: returning from command play_video -t "Life as We Know It" /content/ads/MISSINGAD /content/videos/LifeAsWeKnowIt_ENG_ara.mkv
+Digemenu:  Thu Sep 26 21:32:54 2013: exitCode == 0
+Digemenu:  Thu Sep 26 21:32:55 2013: Returned to main menu Main Menu
+Digemenu:  Thu Sep 26 21:32:59 2013: executing command !digetunes
+Digemenu:  Fri Sep 27 12:07:23 2013: Starting digemenu version 2
+Digemenu:  Fri Sep 27 12:07:32 2013: Starting main menu Main Menu
+Digemenu:  Fri Sep 27 13:04:08 2013: Starting digemenu version 2
+Digemenu:  Fri Sep 27 13:04:17 2013: Starting main menu Main Menu
+Digemenu:  Fri Sep 27 13:04:20 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Fri Sep 27 13:04:26 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Fri Sep 27 13:04:26 2013: Detailing item The East
+Digemenu:  Fri Sep 27 13:04:40 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Fri Sep 27 13:04:46 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Fri Sep 27 13:04:46 2013: Detailing item The East
+Digemenu:  Fri Sep 27 13:04:51 2013: executing command play_video -t "The East" /content/ads/MISSINGAD /content/videos/TheEastTH_ENGRUS.mkv
+Digemenu:  Fri Sep 27 15:02:34 2013: Shutting down player!
+Digemenu:  Sat Sep 28 05:12:06 2013: Starting digemenu version 2
+Digemenu:  Sat Sep 28 05:12:14 2013: Starting main menu Main Menu
+Digemenu:  Sat Sep 28 05:13:46 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Sat Sep 28 05:14:41 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Sat Sep 28 05:14:41 2013: Detailing item The Internship
+Digemenu:  Sat Sep 28 05:14:52 2013: executing command play_video -t "The Internship" /content/ads/ASA-UWMedicine-Running30s_ENG.mkv /content/videos/TheInternship-TH_ENGLSP.mkv
+Digemenu:  Sat Sep 28 07:16:53 2013: Shutting down player!
+Digemenu:  Sun Sep 29 05:17:52 2013: Starting digemenu version 2
+Digemenu:  Sun Sep 29 05:18:01 2013: Starting main menu Main Menu
+Digemenu:  Sun Sep 29 05:20:45 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Sun Sep 29 05:21:04 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Sun Sep 29 05:21:04 2013: Detailing item Epic
+Digemenu:  Sun Sep 29 05:23:04 2013: executing command play_video -t "Epic" /content/videos/Epic_ENG.mkv
+Digemenu:  Sun Sep 29 05:43:12 2013: returning from command play_video -t "Epic" /content/videos/Epic_ENG.mkv
+Digemenu:  Sun Sep 29 05:43:12 2013: exitCode != 0
+Digemenu:  Sun Sep 29 05:43:12 2013: exitCode == RETURN_TO_HOME
+Digemenu:  Sun Sep 29 05:43:13 2013: Returned to main menu Main Menu
+Digemenu:  Sun Sep 29 05:43:18 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Sun Sep 29 05:43:22 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Sun Sep 29 05:43:22 2013: Detailing item Epic
+Digemenu:  Sun Sep 29 05:43:24 2013: executing command play_video -t "Epic" /content/videos/Epic_ENG.mkv
+Digemenu:  Sun Sep 29 06:58:50 2013: returning from command play_video -t "Epic" /content/videos/Epic_ENG.mkv
+Digemenu:  Sun Sep 29 06:58:50 2013: exitCode != 0
+Digemenu:  Sun Sep 29 06:58:50 2013: exitCode == RETURN_TO_HOME
+Digemenu:  Sun Sep 29 06:58:50 2013: Returned to main menu Main Menu
+Digemenu:  Sun Sep 29 06:58:52 2013: Starting menu Blockbuster Hit Movies
+Digemenu:  Sun Sep 29 06:59:13 2013: Starting detailsMenu for Blockbuster Hit Movies
+Digemenu:  Sun Sep 29 06:59:13 2013: Detailing item The Great Gatsby
+Digemenu:  Sun Sep 29 06:59:21 2013: executing command play_video  -u 0  -f DejaVuSans:16 -t "The Great Gatsby" /content/ads/ASA-BankOfAmerica-30sec_ENG.mkv /content/videos/TheGreatGatsby-ED_ENG_eng.mkv
+Digemenu:  Sun Sep 29 09:08:21 2013: returning from command play_video  -u 0  -f DejaVuSans:16 -t "The Great Gatsby" /content/ads/ASA-BankOfAmerica-30sec_ENG.mkv /content/videos/TheGreatGatsby-ED_ENG_eng.mkv
+Digemenu:  Sun Sep 29 09:08:21 2013: exitCode != 0
+Digemenu:  Sun Sep 29 09:08:21 2013: exitCode == RETURN_TO_HOME
+Digemenu:  Sun Sep 29 09:08:22 2013: Returned to main menu Main Menu
+Digemenu:  Sun Sep 29 09:08:27 2013: Starting menu Favorite Classic Movies
+Digemenu:  Sun Sep 29 09:08:29 2013: Starting menu All Time Favorites
+Digemenu:  Sun Sep 29 09:09:09 2013: Starting detailsMenu for All Time Favorites
+Digemenu:  Sun Sep 29 09:09:09 2013: Detailing item Crazy, Stupid, Love.
+Digemenu:  Sun Sep 29 09:09:24 2013: Starting menu All Time Favorites
+Digemenu:  Sun Sep 29 09:09:25 2013: Starting menu Favorite Classic Movies
+Digemenu:  Sun Sep 29 11:48:20 2013: Starting digemenu version 2
+Digemenu:  Sun Sep 29 11:48:29 2013: Starting main menu Main Menu

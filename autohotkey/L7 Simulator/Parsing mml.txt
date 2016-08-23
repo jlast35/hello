@@ -1,0 +1,11 @@
+Parsing mml is going to be a little tricky
+
+it is a context sensitive tag-based tree structure
+
+for menus that are not "final", there may be pages of up to 6 buttons
+the language buttons draw with no icon - the menu item's title text is centered on a color gradient button
+if an icon is specified, there is a semi-transparent button, icon on the left of it, then a split line - title on top, sub-text on bottom
+
+for menus that are "final", a flip widget screen displays the menu items and links to a detail page of the same items
+-i'm not sure where the thumbnail text comes from... (it comes from the same node marked final - it uses the title, subtext, and poster for the thumbnail - and the poster and text fields for the collateral)
+the play button is a drawn button similar to the language buttons

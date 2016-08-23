@@ -1,0 +1,785 @@
+<menuitem> #Main Menu
+	<title>Main Menu</title>
+		<itemcount>6</itemcount>
+		<preAction>
+			<command>/bin/calibrate</command>
+		</preAction>
+		<flag>t</flag>
+		<menuitem> #Movies
+			<title>Movies</title>
+			<icon>/content/menu/images/icons/icon-filmreel-2.png</icon>
+			<itemcount> 6</itemcount>
+			<flag>f</flag>
+				<menuitem> #Million Dollar Arm
+					<title>Million Dollar Arm</title>
+					<subText>PG / 124 min</subText>
+					<poster>/content/menu/images/interface/milliondollararm.png </poster>
+					<text>/content/menu/text/movies/eng/MillionDollarArm.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Million Dollar Arm" /content/videos/MillionDollarArm-TH_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #The Amazing Spider-Man 2
+					<title>The Amazing Spider-Man 2</title>
+					<subText>PG-13 / 142 min</subText>
+					<poster>/content/menu/images/interface/theamazingspiderman2.png </poster>
+					<text>/content/menu/text/movies/eng/TheAmazingSpiderMan2.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "The Amazing Spider-Man 2" /content/videos/SCX-AmazingSpiderman2-TH_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #The Other Woman
+					<title>The Other Woman</title>
+					<subText>PG-13 / 109 min</subText>
+					<poster>/content/menu/images/interface/theotherwoman.png </poster>
+					<text>/content/menu/text/movies/eng/TheOtherWoman.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "The Other Woman" /content/videos/TheOtherWoman-ED_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Transcendence
+					<title>Transcendence</title>
+					<subText>PG-13 / 119 min</subText>
+					<poster>/content/menu/images/interface/transcendence.png </poster>
+					<text>/content/menu/text/movies/eng/Transcendence.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Transcendence" /content/videos/Transcendence1x-ED_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #300: Rise of an Empire
+					<title>300: Rise of an Empire</title>
+					<subText>R / 102 min</subText>
+					<poster>/content/menu/images/interface/300riseofanempire.png </poster>
+					<text>/content/menu/text/movies/eng/300RiseofanEmpire.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "300: Rise of an Empire" /content/videos/300-RiseOfAEmpire-ED_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Khumba
+					<title>Khumba</title>
+					<subText>NR / 85 min</subText>
+					<poster>/content/menu/images/interface/khumba.png </poster>
+					<text>/content/menu/text/movies/eng/Khumba.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Khumba" /content/videos/Khumba1x-TH_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+		</menuitem>
+		<menuitem> #TV Shows
+			<title>TV Shows</title>
+			<icon>/content/menu/images/icons/icon-tv-2.png</icon>
+			<itemcount> 9</itemcount>
+			<flag>f</flag>
+				<menuitem> #Mom - A Small Nervous Breakdown and a Misplaced Fork
+					<title>Mom - A Small Nervous Breakdown and a Misplaced Fork</title>
+					<poster>/content/menu/images/interface/momasmallnervousbreakdownandamisplacedfork.png </poster>
+					<text>/content/menu/text/tv/eng/MomASmallNervousBreakdownandaMisplacedFork.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Mom - A Small Nervous Breakdown and a Misplaced Fork" /content/videos/Mom-ASmallNervousBreakdownAndASmallFork_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Person of Interest - Lady Killer
+					<title>Person of Interest - Lady Killer</title>
+					<poster>/content/menu/images/interface/personofinterestladykiller.png </poster>
+					<text>/content/menu/text/tv/eng/PersonofInterestLadyKiller.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Person of Interest - Lady Killer" /content/videos/PersonOfInterest-LadyKiller_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Pretty Little Liars - Turn of the Shoe
+					<title>Pretty Little Liars - Turn of the Shoe</title>
+					<poster>/content/menu/images/interface/prettylittleliarsturnoftheshoe.png </poster>
+					<text>/content/menu/text/tv/eng/PrettyLittleLiarsTurnoftheShoe.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Pretty Little Liars - Turn of the Shoe" /content/videos/PrettyLittleLiars-TurnOfTheShoe_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Revolution - There Will Be Blood
+					<title>Revolution - There Will Be Blood</title>
+					<poster>/content/menu/images/interface/revolutiontherewillbeblood.png </poster>
+					<text>/content/menu/text/tv/eng/RevolutionThereWillBeBlood.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Revolution - There Will Be Blood" /content/videos/Revolution-ThereWillBeBlood_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Arrow - Broken Dolls
+					<title>Arrow - Broken Dolls</title>
+					<poster>/content/menu/images/interface/arrowbrokendolls.png </poster>
+					<text>/content/menu/text/tv/eng/ArrowBrokenDolls.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Arrow - Broken Dolls" /content/videos/Arrow-BrokenDolls_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #New Girl - Nerd
+					<title>New Girl - Nerd</title>
+					<poster>/content/menu/images/interface/newgirlnerd.png </poster>
+					<text>/content/menu/text/tv/eng/NewGirlNerd.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "New Girl - Nerd" /content/videos/NewGirl-Nerd_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Bones - The Cheat in the Retreat
+					<title>Bones - The Cheat in the Retreat</title>
+					<poster>/content/menu/images/interface/bonesthecheatintheretreat.png </poster>
+					<text>/content/menu/text/tv/eng/BonesTheCheatintheRetreat.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Bones - The Cheat in the Retreat" /content/videos/Bones-TheCheatInTheRetreat_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Bob's Burgers - O.T.: The Outside Toilet
+					<title>Bob's Burgers - O.T.: The Outside Toilet</title>
+					<poster>/content/menu/images/interface/bobsburgersottheoutsidetoilet.png </poster>
+					<text>/content/menu/text/tv/eng/BobsBurgersOTTheOutsideToilet.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Bob's Burgers - O.T.: The Outside Toilet" /content/videos/BobsBurgers-TheOutsideToliet_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #The Goodwin Games - Welcome Home, Goodwins
+					<title>The Goodwin Games - Welcome Home, Goodwins</title>
+					<poster>/content/menu/images/interface/thegoodwingameswelcomehomegoodwins.png </poster>
+					<text>/content/menu/text/tv/eng/TheGoodwinGamesWelcomeHomeGoodwins.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "The Goodwin Games - Welcome Home, Goodwins" /content/videos/TheGoodwinGames-WelcomeHomeGoodwins_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+		</menuitem>
+		<menuitem> #Cartoons
+			<title>Cartoons</title>
+			<icon>/content/menu/images/icons/icon-clown.png</icon>
+			<itemcount> 19</itemcount>
+			<flag>f</flag>
+				<menuitem> #Animaniacs - A Very Very Very Very Special Show
+					<title>Animaniacs - A Very Very Very Very Special Show</title>
+					<poster>/content/menu/images/interface/animaniacsaveryveryveryveryspecialshow.png </poster>
+					<text>/content/menu/text/tv/eng/AnimaniacsAVeryVeryVeryVerySpecialShow.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Animaniacs - A Very Very Very Very Special Show" /content/videos/Animaniacs-AVeryVeryVerySpecialShow_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Animaniacs - Broadcast Nuisance
+					<title>Animaniacs - Broadcast Nuisance</title>
+					<poster>/content/menu/images/interface/animaniacsbroadcastnuisance.png </poster>
+					<text>/content/menu/text/tv/eng/AnimaniacsBroadcastNuisance.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Animaniacs - Broadcast Nuisance" /content/videos/Animaniacs-BroadcastNuisance_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Animaniacs - Fair Game
+					<title>Animaniacs - Fair Game</title>
+					<poster>/content/menu/images/interface/animaniacsfairgame.png </poster>
+					<text>/content/menu/text/tv/eng/AnimaniacsFairGame.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Animaniacs - Fair Game" /content/videos/Animaniacs-FairGame_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Batman of the Future - Big Time
+					<title>Batman of the Future - Big Time</title>
+					<poster>/content/menu/images/interface/batmanofthefuturebigtime.png </poster>
+					<text>/content/menu/text/tv/eng/BatmanoftheFutureBigTime.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Batman of the Future - Big Time" /content/videos/BatmanBeyond-BigTime_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Batman: The Brave and the Bold - Emperor Joker!
+					<title>Batman: The Brave and the Bold - Emperor Joker!</title>
+					<poster>/content/menu/images/interface/batmanthebraveandtheboldemperorjoker.png </poster>
+					<text>/content/menu/text/tv/eng/BatmanTheBraveandtheBoldEmperorJoker.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Batman: The Brave and the Bold - Emperor Joker!" /content/videos/BatmanTheBraveAndTheBold-EmporerJoker_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Green Lantern: The Animated Series - Invasion
+					<title>Green Lantern: The Animated Series - Invasion</title>
+					<poster>/content/menu/images/interface/greenlanterntheanimatedseriesinvasion.png </poster>
+					<text>/content/menu/text/tv/eng/GreenLanternTheAnimatedSeriesInvasion.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Green Lantern: The Animated Series - Invasion" /content/videos/GreenLatern-Invasion_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Green Lantern: The Animated Series - Into the Abyss
+					<title>Green Lantern: The Animated Series - Into the Abyss</title>
+					<poster>/content/menu/images/interface/greenlanterntheanimatedseriesintotheabyss.png </poster>
+					<text>/content/menu/text/tv/eng/GreenLanternTheAnimatedSeriesIntotheAbyss.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Green Lantern: The Animated Series - Into the Abyss" /content/videos/GreenLanternAnimated-IntoTheAbyss_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Justice League - Chaos at the Earth's Core
+					<title>Justice League - Chaos at the Earth's Core</title>
+					<poster>/content/menu/images/interface/justiceleaguechaosattheearthscore.png </poster>
+					<text>/content/menu/text/tv/eng/JusticeLeagueChaosattheEarthsCore.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Justice League - Chaos at the Earth's Core" /content/videos/JusticeLeagueUnlimited-ChaosAtTheEarthsCore_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Road Runner - Out and Out Rout
+					<title>Road Runner - Out and Out Rout</title>
+					<poster>/content/menu/images/interface/roadrunneroutandoutrout.png </poster>
+					<text>/content/menu/text/tv/eng/RoadRunnerOutandOutRout.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Road Runner - Out and Out Rout" /content/videos/RoadRunner-OutAndOutRout_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Road Runner - Run, Run, Sweet Road Runner
+					<title>Road Runner - Run, Run, Sweet Road Runner</title>
+					<poster>/content/menu/images/interface/roadrunnerrunrunsweetroadrunner.png </poster>
+					<text>/content/menu/text/tv/eng/RoadRunnerRunRunSweetRoadRunner.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Road Runner - Run, Run, Sweet Road Runner" /content/videos/RoadRunner-RunRunSweatRoadRunner_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Road Runner - Rushing Roulette
+					<title>Road Runner - Rushing Roulette</title>
+					<poster>/content/menu/images/interface/roadrunnerrushingroulette.png </poster>
+					<text>/content/menu/text/tv/eng/RoadRunnerRushingRoulette.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Road Runner - Rushing Roulette" /content/videos/RoadRunner-RushingRoulette_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Road Runner - Scrambled Aches
+					<title>Road Runner - Scrambled Aches</title>
+					<poster>/content/menu/images/interface/roadrunnerscrambledaches.png </poster>
+					<text>/content/menu/text/tv/eng/RoadRunnerScrambledAches.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Road Runner - Scrambled Aches" /content/videos/RoadRunner-ScambledAches_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #The Looney Tunes Show - Bugs &amp; Daffy Get a Job
+					<title>The Looney Tunes Show - Bugs &amp; Daffy Get a Job</title>
+					<poster>/content/menu/images/interface/thelooneytunesshowbugsanddaffygetajob.png </poster>
+					<text>/content/menu/text/tv/eng/TheLooneyTunesShowBugsAndDaffyGetaJob.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "The Looney Tunes Show - Bugs &amp; Daffy Get a Job" /content/videos/LooneyTunes-BugsAndDaffyGetAJob_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #The Looney Tunes Show - Newspaper Thief
+					<title>The Looney Tunes Show - Newspaper Thief</title>
+					<poster>/content/menu/images/interface/thelooneytunesshownewspaperthief.png </poster>
+					<text>/content/menu/text/tv/eng/TheLooneyTunesShowNewspaperThief.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "The Looney Tunes Show - Newspaper Thief" /content/videos/LooneyTunes-NewspaperThief_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #The Sylvester &amp; Tweety Mysteries - Moscow Side Story
+					<title>The Sylvester &amp; Tweety Mysteries - Moscow Side Story</title>
+					<poster>/content/menu/images/interface/thesylvesterandtweetymysteriesmoscowsidestory.png </poster>
+					<text>/content/menu/text/tv/eng/TheSylvesterAndTweetyMysteriesMoscowSideStory.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "The Sylvester &amp; Tweety Mysteries - Moscow Side Story" /content/videos/SylvesterAndTweetyMysteries-MoscowSideStory_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Tom &amp; Jerry - Dog House
+					<title>Tom &amp; Jerry - Dog House</title>
+					<poster>/content/menu/images/interface/tomandjerrydoghouse.png </poster>
+					<text>/content/menu/text/tv/eng/TomAndJerryDogHouse.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Tom &amp; Jerry - Dog House" /content/videos/TomAndJerry-DogHouse_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Tom &amp; Jerry - Dog Trouble
+					<title>Tom &amp; Jerry - Dog Trouble</title>
+					<poster>/content/menu/images/interface/tomandjerrydogtrouble.png </poster>
+					<text>/content/menu/text/tv/eng/TomAndJerryDogTrouble.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Tom &amp; Jerry - Dog Trouble" /content/videos/TomAndJerry-DogTrouble_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Tom &amp; Jerry - Down and Outing
+					<title>Tom &amp; Jerry - Down and Outing</title>
+					<poster>/content/menu/images/interface/tomandjerrydownandouting.png </poster>
+					<text>/content/menu/text/tv/eng/TomAndJerryDownandOuting.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Tom &amp; Jerry - Down and Outing" /content/videos/TomAndJerry-DownAndOuting_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Tom &amp; Jerry - Down Beat Bear
+					<title>Tom &amp; Jerry - Down Beat Bear</title>
+					<poster>/content/menu/images/interface/tomandjerrydownbeatbear.png </poster>
+					<text>/content/menu/text/tv/eng/TomAndJerryDownBeatBear.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Tom &amp; Jerry - Down Beat Bear" /content/videos/TomAndJerry-DownBeatBear_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+		</menuitem>
+		<menuitem> #Music
+			<title>Music</title>
+			<icon>/content/menu/images/icons/icon-cd-note.png</icon>
+			<action>
+				<command>!digetunes --music-subdir=music</command>
+			</action>
+		</menuitem>
+		<menuitem> #Music Videos
+			<title>Music Videos</title>
+			<icon>/content/menu/images/icons/icon-note-filmstrip.png</icon>
+			<itemcount> 25</itemcount>
+			<flag>a</flag>
+				<menuitem> #Alice in ChainsStone
+					<title>Alice in Chains - Stone</title>
+					<poster>/content/menu/images/interface/aliceinchainsstone.png</poster>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Alice in Chains - Stone" /content/musicvideos/AliceInChains-Stone_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #AviciiHey Brother
+					<title>Avicii - Hey Brother</title>
+					<poster>/content/menu/images/interface/aviciiheybrother.png</poster>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Avicii - Hey Brother" /content/musicvideos/Avicii-HeyBrother_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Black Eyed PeasJust Can't Get Enough
+					<title>Black Eyed Peas - Just Can't Get Enough</title>
+					<poster>/content/menu/images/interface/blackeyedpeasjustcantgetenough.png</poster>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Black Eyed Peas - Just Can't Get Enough" /content/musicvideos/BlackEyedPeas-JustCant_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Bombay Bicycle ClubCarry Me
+					<title>Bombay Bicycle Club - Carry Me</title>
+					<poster>/content/menu/images/interface/bombaybicycleclubcarryme.png</poster>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Bombay Bicycle Club - Carry Me" /content/musicvideos/BombayCycleClub-CarryMe_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #GoyteEasy Way Out
+					<title>Goyte - Easy Way Out</title>
+					<poster>/content/menu/images/interface/goyteeasywayout.png</poster>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Goyte - Easy Way Out" /content/musicvideos/Goyte-EasyWayOut_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Joe CockerI Come in Peace
+					<title>Joe Cocker - I Come in Peace</title>
+					<poster>/content/menu/images/interface/joecockericomeinpeace.png</poster>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Joe Cocker - I Come in Peace" /content/musicvideos/JoeCocker-IComeInPeace_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Chase &amp; Status ft. Liam BaileyBlind Faith
+					<title>Chase &amp; Status ft. Liam Bailey - Blind Faith</title>
+					<poster>/content/menu/images/interface/chaseandstatusftliambaileyblindfaith.png</poster>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Chase &amp; Status ft. Liam Bailey - Blind Faith" /content/musicvideos/ChaseStatus-BlindFaith_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Demi LovatoNeon Lights
+					<title>Demi Lovato - Neon Lights</title>
+					<poster>/content/menu/images/interface/demilovatoneonlights.png</poster>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Demi Lovato - Neon Lights" /content/musicvideos/DemiLovato-NeonLights_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #ElbowNeat Little Rows
+					<title>Elbow - Neat Little Rows</title>
+					<poster>/content/menu/images/interface/elbowneatlittlerows.png</poster>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Elbow - Neat Little Rows" /content/musicvideos/Elbow-NeatLittleRows_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Ellie GouldingBeating Heart
+					<title>Ellie Goulding - Beating Heart</title>
+					<poster>/content/menu/images/interface/elliegouldingbeatingheart.png</poster>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Ellie Goulding - Beating Heart" /content/musicvideos/EllieGoulding-BeatingHeart_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #James BlakeThe Wilhelm Scream
+					<title>James Blake - The Wilhelm Scream</title>
+					<poster>/content/menu/images/interface/jamesblakethewilhelmscream.png</poster>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "James Blake - The Wilhelm Scream" /content/musicvideos/JamesBlake-WihelmScream_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Josh RecordFor Your Love
+					<title>Josh Record - For Your Love</title>
+					<poster>/content/menu/images/interface/joshrecordforyourlove.png</poster>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Josh Record - For Your Love" /content/musicvideos/JoshRecord-ForYourLove_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Justin BieberNever Say Never
+					<title>Justin Bieber - Never Say Never</title>
+					<poster>/content/menu/images/interface/justinbieberneversaynever.png</poster>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Justin Bieber - Never Say Never" /content/musicvideos/JustinBieber-NeverSayNever_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Lana Del ReySummertime Sadness
+					<title>Lana Del Rey - Summertime Sadness</title>
+					<poster>/content/menu/images/interface/lanadelreysummertimesadness.png</poster>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Lana Del Rey - Summertime Sadness" /content/musicvideos/LanaDelRay-SummertimeSadness_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Nicole ScherzingerDon't Hold Your Breath
+					<title>Nicole Scherzinger - Don't Hold Your Breath</title>
+					<poster>/content/menu/images/interface/nicolescherzingerdontholdyourbreath.png</poster>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Nicole Scherzinger - Don't Hold Your Breath" /content/musicvideos/NicholeScherzinger-DontHold_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Noah and the WhaleL.I.F.E.G.O.E.S.O.N.
+					<title>Noah and the Whale - L.I.F.E.G.O.E.S.O.N.</title>
+					<poster>/content/menu/images/interface/noahandthewhalelifegoeson.png</poster>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Noah and the Whale - L.I.F.E.G.O.E.S.O.N." /content/musicvideos/NoahAndTheWhale-LifeGoesOn_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Owl CityAlligator Sky
+					<title>Owl City - Alligator Sky</title>
+					<poster>/content/menu/images/interface/owlcityalligatorsky.png</poster>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Owl City - Alligator Sky" /content/musicvideos/OwlCity-AlligatorSky_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Sam SmithStay with Me
+					<title>Sam Smith - Stay with Me</title>
+					<poster>/content/menu/images/interface/samsmithstaywithme.png</poster>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Sam Smith - Stay with Me" /content/musicvideos/SamSmith-StayWithMe_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #SlashYou're a Lie
+					<title>Slash - You're a Lie</title>
+					<poster>/content/menu/images/interface/slashyourealie.png</poster>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Slash - You're a Lie" /content/musicvideos/Slash-YoureALie_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #The 1975Girls
+					<title>The 1975 - Girls</title>
+					<poster>/content/menu/images/interface/the1975girls.png</poster>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "The 1975 - Girls" /content/musicvideos/The1975-Girls_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #The FeelingSet My World on Fire
+					<title>The Feeling - Set My World on Fire</title>
+					<poster>/content/menu/images/interface/thefeelingsetmyworldonfire.png</poster>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "The Feeling - Set My World on Fire" /content/musicvideos/TheFeeling-SetMyWorld_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #The Riptide MovementAll Works Out
+					<title>The Riptide Movement - All Works Out</title>
+					<poster>/content/menu/images/interface/theriptidemovementallworksout.png</poster>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "The Riptide Movement - All Works Out" /content/musicvideos/TheRiptideMovement-AllWorksOut_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #The WantedShow Me Love
+					<title>The Wanted - Show Me Love</title>
+					<poster>/content/menu/images/interface/thewantedshowmelove.png</poster>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "The Wanted - Show Me Love" /content/musicvideos/TheWanted-ShowMeLove_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Viva BrotherNew Year's Day
+					<title>Viva Brother - New Year's Day</title>
+					<poster>/content/menu/images/interface/vivabrothernewyearsday.png</poster>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Viva Brother - New Year's Day" /content/musicvideos/VivaBrother-NewYearsDay_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #WonderlandStarlight
+					<title>Wonderland - Starlight</title>
+					<poster>/content/menu/images/interface/wonderlandstarlight.png</poster>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>play_video -t "Wonderland - Starlight" /content/musicvideos/Wonderland-Starlight_ENG.mkv </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+		</menuitem>
+		<menuitem> #Games
+			<title>Games</title>
+			<icon>/content/menu/images/icons/icon-chess.png</icon>
+			<itemcount>10</itemcount>
+			<flag>f</flag>
+				<menuitem> #Pearl Rush
+					<title>Pearl Rush</title>
+					<poster>/content/menu/images/interface/pearlrush.png</poster>
+					<text>/content/menu/text/games/eng/PearlRush.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>/content/games/fdgPearlRush/start_game.sh  -l eng/ </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Invaders
+					<title>Invaders</title>
+					<poster>/content/menu/images/interface/invaders.png</poster>
+					<text>/content/menu/text/games/eng/Invaders.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>/content/games/fdgInvaders/start_game.sh  -l eng/ </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Balloon Shooter
+					<title>Balloon Shooter</title>
+					<poster>/content/menu/images/interface/balloonshooter.png</poster>
+					<text>/content/menu/text/games/eng/BalloonShooter.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>/content/games/fdgBalloonShooter/start_game.sh  -l eng/ </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #High Roller
+					<title>High Roller</title>
+					<poster>/content/menu/images/interface/highroller.png</poster>
+					<text>/content/menu/text/games/eng/HighRoller.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>/content/games/fdgHighRoller/start_game.sh  -l eng/ </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Word Cubes
+					<title>Word Cubes</title>
+					<poster>/content/menu/images/interface/wordcubes.png</poster>
+					<text>/content/menu/text/games/eng/WordCubes.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>/content/games/fdgWordCubes/start_game.sh  -l eng/ </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Solitaire
+					<title>Solitaire</title>
+					<poster>/content/menu/images/interface/solitaire.png</poster>
+					<text>/content/menu/text/games/eng/Solitaire.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>/content/games/fdgSolitaire/start_game.sh  -l eng/ </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Free Cell
+					<title>Free Cell</title>
+					<poster>/content/menu/images/interface/freecell.png</poster>
+					<text>/content/menu/text/games/eng/FreeCell.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>/content/games/fdgFreeCell/start_game.sh  -l eng/ </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Spider Solitaire
+					<title>Spider Solitaire</title>
+					<poster>/content/menu/images/interface/spidersolitaire.png</poster>
+					<text>/content/menu/text/games/eng/SpiderSolitaire.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>/content/games/fdgSpider/start_game.sh  -l eng/ </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Mahjong
+					<title>Mahjong</title>
+					<poster>/content/menu/images/interface/mahjong.png</poster>
+					<text>/content/menu/text/games/eng/Mahjong.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>/content/games/fdgMahjong/start_game.sh  -l eng/ </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+				<menuitem> #Gem Swap
+					<title>Gem Swap</title>
+					<poster>/content/menu/images/interface/gemswap.png</poster>
+					<text>/content/menu/text/games/eng/GemSwap.txt</text>
+					<actionGroup>
+						<title>Play</title>
+						<action>
+							<command>/content/games/fdgGemSwap/start_game.sh  -l eng/ </command>
+						</action>
+					</actionGroup>
+				</menuitem>
+		</menuitem>
+</menuitem>

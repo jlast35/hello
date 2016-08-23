@@ -1,0 +1,56 @@
+<menuitem> #Main Menu
+	<title>Main Menu</title>
+	<itemcount>3</itemcount>
+	<image>bg-a1.png</image>
+	<menuitem>#English
+		<title>English</title>
+			<itemcount>6</itemcount>
+			<image>bg-a2.png</image>
+			<flag>t</flag>
+			<menuitem> #Hollywood & More
+				<title>Hollywood & More</title>
+				<icon>/content/menu/images/icons/c_movie01_80x80.png</icon>
+				<itemcount> 15</itemcount>
+				<flag>f</flag>
+				<image>bg-a3.png</image>
+					<menuitem> #CAPTAIN AMERICA: THE WINTER SOLDIER
+						<title>CAPTAIN AMERICA: THE WINTER SOLDIER</title>
+						<poster>/content/menu/images/interface/captainamericathewintersoldier_8-1-2014.png </poster>
+						<text>/content/menu/text/movies/eng/CAPTAINAMERICATHEWINTERSOLDIER.txt</text>
+						<actionGroup>
+							<title>Play</title>
+							<action>
+								<command>play_video %1 -f DejaVuSans:20 -t "CAPTAIN AMERICA: THE WINTER SOLDIER" /content/videos/ANA-MarvelsCaptainAmericaTheWinterSoldier-8-1-2014_JAPENGFREGERKORSPA_CHI.mkv </command>
+								<argument>
+									<title>Select Language</title>
+										<selection>
+											<title>Japanese Audio</title>
+											<value>-a 0</value>
+										</selection>
+										<selection>
+											<title>English Audio</title>
+											<value>-a 1</value>
+										</selection>
+										<selection>
+											<title>French Audio</title>
+											<value>-a 2</value>
+										</selection>
+										<selection>
+											<title>German Audio</title>
+											<value>-a 3</value>
+										</selection>
+										<selection>
+											<title>Korean Audio</title>
+											<value>-a 4</value>
+										</selection>
+										<selection>
+											<title>Spanish Audio</title>
+											<value>-a 5</value>
+										</selection>
+								</argument>
+							</action>
+						</actionGroup>
+					</menuitem>
+			</menuitem>
+	</menuitem>
+</menuitem>
