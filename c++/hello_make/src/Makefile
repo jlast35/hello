@@ -87,6 +87,7 @@ $(EXECUTABLE): $(OBJ)
 $(ODIR):
 	mkdir $(ODIR)
 
+# This means that "clean" is not the name of a file, so don't check for a file named "clean" when passed this build target.
 .PHONY: clean
 
 clean:
