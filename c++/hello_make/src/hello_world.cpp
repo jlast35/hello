@@ -16,6 +16,6 @@ using namespace std;
 
 int main ()
 {
-	cout << "Hello World!!!"; // We are sending the string literal "Hello World!" as input to the special console output file std::cout
+	cout << "Hello World!!!\n"; // We are sending the string literal "Hello World!" as input to the special console output file std::cout
 }
 // end main
