@@ -1,0 +1,5 @@
+make clean
+qmake
+make
+# scp hello_qt root@nv:
+#./hello_qt
