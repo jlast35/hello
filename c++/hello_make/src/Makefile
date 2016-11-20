@@ -75,21 +75,33 @@ OBJ = $(_OBJ:%=$(ODIR)/%)
 # This means their timestamps are not checked to see whether a newer version exists - only that it already exists.
 # In the example below, "don't start compiling cpp files to objects until an objects directory exists"
 
-$(ODIR)/%.o: %.cpp $(DEPS) | $(ODIR)
-	$(CXX) -c -o $@ $< $(CXXFLAGS)
-
 # $@ and $^ are the left and right sides of the : respectively
 
+# The first recipe encountered is the "default goal".  
+# The default goal is the recipe that builds when you invoke "make" with no parameters
+# Other recipes do not build unless they are dependencies of the "default goal".
+
+# Dependencies get resolved recursively.  
+# If a dependency file is in turn listed as the build target of another rule, that rule's dependencies are also processed.
+# So, generally, you want to start with the final executable and recurse down from there.
+
+# The default goal:
+# --------------------------------------
 $(EXECUTABLE): $(OBJ)
 	$(CXX) -o $@ $^ $(CXXFLAGS)
+# --------------------------------------
+$(ODIR)/%.o: %.cpp $(DEPS) | $(ODIR)
+	$(CXX) -c -o $@ $< $(CXXFLAGS)
 
 # create a separate object directory
 $(ODIR):
 	mkdir $(ODIR)
 
 # This means that "clean" is not the name of a file, so don't check for a file named "clean" when passed this build target.
+# The only way a PHONY target should be able to be processed is if it is passed as a command line argument to "make"
+# For example, "make clean"
 .PHONY: clean
 
 clean:
 	rm -rf $(ODIR)
-	rm $(EXECUTABLE)
+	if [ -f $(EXECUTABLE) ]; then rm $(EXECUTABLE); fi
