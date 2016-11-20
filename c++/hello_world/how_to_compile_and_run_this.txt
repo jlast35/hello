@@ -9,5 +9,15 @@ Easier still, for simple one file projects, you can also just do:
 
 make hello_world
 
+Note: NOT "make hello_world.cpp" - you have to omit the extension!
+
 (even if there is no Makefile, as long as the arg is the same name minus extension as the cpp file)
 
+---------------------------
+
+How to run:
+
+At the command line, enter:
+./hello_world
+
+Note: The compiler makes the binary file executable by default, so you shouldn't have to chmod 755 it like you otherwise would have to if writing a script
