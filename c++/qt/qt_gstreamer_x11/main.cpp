@@ -1,52 +1,35 @@
-#include <glib.h>
-#include <gst/gst.h>
-#include <gst/video/videooverlay.h>
-
+ #include <gst/video/videooverlay.h>
 #include <QApplication>
-//#include <QTimer>
 #include <QWidget>
 
 int main(int argc, char *argv[])
 {
-  gst_init(&argc, &argv);
-  QApplication app(argc, argv);
-  app.connect(&app, SIGNAL(lastWindowClosed()), &app, SLOT(quit()));
+  // This is an event-driven Qt GUI application
+  QApplication *app = new QApplication(argc, argv);
 
-  // prepare the pipeline
+  // when the last UI window is closed, also exit the app event loop
+  app->connect(app, SIGNAL(lastWindowClosed()), app, SLOT(quit()));
+
+  // Create and display a QWidget to render video on
+  QWidget video_widget;
+  video_widget.show();
+
+  // initialize GStreamer
+  gst_init(&argc, &argv);
+
+  // Setup a minimal GStreamer video test pipeline using an x11 video sink
   GstElement *pipeline = gst_pipeline_new("xvoverlay");
   GstElement *src = gst_element_factory_make("videotestsrc", NULL);
   GstElement *sink = gst_element_factory_make("xvimagesink", NULL);
   gst_bin_add_many(GST_BIN(pipeline), src, sink, NULL);
   gst_element_link(src, sink);
 
-  // prepare the ui
-  QWidget window;
-  window.resize(320, 240);
-  window.show();
+  // Make GStreamer's x11 videosink render to the x11 window ID associated with the video_widget
+  gst_video_overlay_set_window_handle(GST_VIDEO_OVERLAY(sink), video_widget.winId());
 
-  WId xwinid = window.winId();
-  gst_video_overlay_set_window_handle(GST_VIDEO_OVERLAY(sink), xwinid);
-
-  // run the pipeline
-//  GstStateChangeReturn sret = 
+  // Run the pipeline
   gst_element_set_state(pipeline, GST_STATE_PLAYING);
-/*
-  if (sret == GST_STATE_CHANGE_FAILURE) {
-    gst_element_set_state(pipeline, GST_STATE_NULL);
-    gst_object_unref(pipeline);
-    // Exit application
-    QTimer::singleShot(0, QApplication::activeWindow(), SLOT(quit()));
-  }
-*/
 
-//  int ret = 
-  app.exec();
-
-/*
-  window.hide();
-  gst_element_set_state(pipeline, GST_STATE_NULL);
-  gst_object_unref(pipeline);
-
-  return ret;
-*/
+  // Finally, start the app event loop
+  app->exec();
 }
