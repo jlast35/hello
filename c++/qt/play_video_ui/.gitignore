@@ -2,3 +2,4 @@
 *.o
 moc_*
 Makefile
+play_video_ui
