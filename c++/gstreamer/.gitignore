@@ -1,0 +1,5 @@
+play_video
+.tmp/
+*.o
+moc_*
+Makefile

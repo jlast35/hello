@@ -1,5 +1,8 @@
 TEMPLATE = app
-TARGET = hello_gstreamer
+TARGET = play_video
+
+MOC_DIR = .tmp
+OBJECTS_DIR = .tmp
  
 QT = core gui
  
