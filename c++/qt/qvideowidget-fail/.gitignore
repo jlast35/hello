@@ -1,0 +1,4 @@
+qvideowidget-fail
+*.o
+moc_*
+Makefile

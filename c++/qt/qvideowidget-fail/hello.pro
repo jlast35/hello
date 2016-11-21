@@ -1,5 +1,5 @@
 TEMPLATE = app
-TARGET = qt_gstreamer
+TARGET = qvideowidget-fail
  
 QT = core gui
  
