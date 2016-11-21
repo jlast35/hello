@@ -1,0 +1,5 @@
+qt_gstreamer_x11
+.tmp/
+*.o
+moc_*
+Makefile

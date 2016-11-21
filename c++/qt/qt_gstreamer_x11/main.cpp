@@ -3,7 +3,7 @@
 #include <gst/video/videooverlay.h>
 
 #include <QApplication>
-#include <QTimer>
+//#include <QTimer>
 #include <QWidget>
 
 int main(int argc, char *argv[])
@@ -28,19 +28,25 @@ int main(int argc, char *argv[])
   gst_video_overlay_set_window_handle(GST_VIDEO_OVERLAY(sink), xwinid);
 
   // run the pipeline
-  GstStateChangeReturn sret = gst_element_set_state(pipeline, GST_STATE_PLAYING);
+//  GstStateChangeReturn sret = 
+  gst_element_set_state(pipeline, GST_STATE_PLAYING);
+/*
   if (sret == GST_STATE_CHANGE_FAILURE) {
     gst_element_set_state(pipeline, GST_STATE_NULL);
     gst_object_unref(pipeline);
     // Exit application
     QTimer::singleShot(0, QApplication::activeWindow(), SLOT(quit()));
   }
+*/
 
-  int ret = app.exec();
+//  int ret = 
+  app.exec();
 
+/*
   window.hide();
   gst_element_set_state(pipeline, GST_STATE_NULL);
   gst_object_unref(pipeline);
 
   return ret;
+*/
 }
