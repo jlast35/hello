@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+
+# This script checks to see if a folder is a valid git repository with at least one commit, and if so,
+# automatically generates a package version number based on the date and time of the latest commit timestamp in a git repository.
+
+# Exit immediately if there are any errors
+set -e
+
+# If a path argument was supplied, cd to it
+if [ -n "$1" ]; then
+	cd "$1"
+fi
+
+# Check to see if the given directory is a valid git repo with at least one commit
+if git log -1 &>/dev/null; then
+
+	# -1 = the latest commit in git log
+	# -s = output a custom string 
+	# --format='%ct': committer date, UNIX timestamp (seconds since epoch)
+	commit_timestamp=$(git log -1 -s --format='%ct')
+
+	# --date=@... converts a UNIX timestamp (seconds since epoch) to a date
+	#'+' use the given date format string for output
+	package_version=$(date --date=@$commit_timestamp '+%Y%m%d%H%M%S')
+fi
+
+# output the auto package version number
+echo "$package_version"
+

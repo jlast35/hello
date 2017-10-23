@@ -24,4 +24,4 @@ echo "You can preserve newlines on command and backtick substitution by quoting:
 echo "`ls`"
 echo "Arithmetic expansion $((3+5*8))"
 echo "Arithmetic expansion $[3+5*8]"
-echo "Filename expansion:" h*.sh he??o.??
+echo "Filename expansion:" /usr/local/bin/h*.sh /usr/local/bin/he??o.??

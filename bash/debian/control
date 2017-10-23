@@ -1,0 +1,11 @@
+Package: hello-world 
+Version: __VERSION__
+Section: base
+Priority: optional
+Architecture: all
+Maintainer: Jason Anderson 
+Description: hello-world
+ This package contains a hello-world program.
+Comment:
+ This package contains a hello-world program.
+
