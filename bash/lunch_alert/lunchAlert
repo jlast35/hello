@@ -1,4 +1,4 @@
 #! /usr/bin/env bash
 
-goodStuff=$(./anythingGoodForLunch today)
+goodStuffToday=$(./anythingGoodForLunch today)
 [ -z $goodStuffToday ] || ./teams "Lunch Alert!" "$goodStuffToday" 
