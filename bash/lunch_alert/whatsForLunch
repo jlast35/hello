@@ -1,0 +1,20 @@
+#! /usr/bin/env bash
+weekday=''
+
+if [ $# -eq 0 ]; then
+	weekday=$(date +%A)
+else
+	weekday=$1	
+fi
+
+if [ ${weekday^^} == "TODAY" ]; then
+	weekday=$(date +%A)
+fi
+
+if [ ${weekday^^} == "TOMORROW" ]; then
+	        weekday=$(date -d "+1 days" +%A)
+fi
+
+dateString=$(./whatDateIs $weekday)
+
+curl -s https://dining-services-batch-495348054234.s3-us-west-2.amazonaws.com/dining/Cannon/$dateString | jq -r .[1].categories[0,1].menu_items[].name

@@ -1,0 +1,5 @@
+#! /usr/bin/env bash
+
+newFavorite="$*"
+grep -c "^$newFavorite$" favorites &>/dev/null || echo $newFavorite >> favorites
+

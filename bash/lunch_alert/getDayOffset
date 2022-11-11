@@ -1,0 +1,19 @@
+#! /usr/bin/env bash
+
+date=$1
+date=${date^^}
+
+today=$(date +%A)
+today=${today^^}
+
+SUNDAY=0
+MONDAY=1
+TUESDAY=2
+WEDNESDAY=3
+THURSDAY=4
+FRIDAY=5
+SATURDAY=6
+
+offset=$(( (${!date} - ${!today} + 7) % 7 ))
+
+echo $offset

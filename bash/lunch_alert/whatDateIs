@@ -1,0 +1,3 @@
+#! /usr/bin/env bash
+offset=$(./getDayOffset $1)
+echo $(date -d "+$offset days" +%Y%m%d)

@@ -1,0 +1,18 @@
+#! /usr/bin/env bash
+
+if [ $# -eq 0 ]; then
+       echo 'Usage: ./teams "<title>" "<message>"'
+       exit 1
+fi
+
+WEBHOOK_URL='https://byu.webhook.office.com/webhookb2/99f0115e-72e8-4ad5-91e4-c7082afba8a9@c6fc6e9b-51fb-48a8-b779-9ee564b40413/IncomingWebhook/22c35cd34bae403e894aab983360155f/448aa470-ee81-407b-9a81-54e3333bacde'
+TITLE=$1
+shift
+TEXT=$*
+
+# Convert formating.
+MESSAGE=$( echo ${TEXT} | sed 's/"/\"/g' | sed "s/'/\'/g" )
+JSON="{\"title\": \"${TITLE}\", \"text\": \"${MESSAGE}\" }"
+
+# Post to Microsoft Teams.
+curl -H "Content-Type: application/json" -d "${JSON}" "${WEBHOOK_URL}"

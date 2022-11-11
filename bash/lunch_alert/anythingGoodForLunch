@@ -1,0 +1,4 @@
+#! /usr/bin/env bash
+
+comm -12 <(./whatsForLunch $1 | sort) <(sort favorites)
+
