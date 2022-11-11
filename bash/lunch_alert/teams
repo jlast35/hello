@@ -5,6 +5,7 @@ if [ $# -eq 0 ]; then
        exit 1
 fi
 
+#WEBHOOK_URL=<your_teams_channel_webhook_here>
 TITLE=$1
 shift
 TEXT=$*
