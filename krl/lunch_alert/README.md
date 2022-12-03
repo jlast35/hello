@@ -11,7 +11,7 @@ of the [PicoStack](https://PicoStack/) blog.
 4. Install the `html` ruleset
 5. Install the `org.picostack.get_me_ribs` ruleset
 6. Find the Event Channel Identifier (ECI) for the channel tagged "ribs_on_menus"
-7. Visit the application at https://localhost:3000/c/ECI/org.picostack.get_me_ribs/ribs_on_menu.html (substituting in the actual ECI value)
+7. Visit the application at http://localhost:3000/c/ECI/org.picostack.get_me_ribs/ribs_on_menu.html (substituting in the actual ECI value)
 8. Create a webhook for a Teams channel
 9. Install the `teams.webhook.messaging` ruleset configured for the webhook
 
