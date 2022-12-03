@@ -14,6 +14,7 @@ of the [PicoStack](https://PicoStack/) blog.
 7. Visit the application at http://localhost:3000/c/ECI/query/org.picostack.get_me_ribs/ribs_on_menu.html (substituting in the actual ECI value)
 8. Create a webhook for a Teams channel
 9. Install the `teams.webhook.messaging` ruleset configured for the webhook
+10. Turn on morning notification
 
 ## helpful links
 
@@ -25,3 +26,5 @@ URL box in the "Install Ruleset" section of the "Rulesets" tab of the developer 
 For step 6, find the channel on the "Channels" tab of the developer UI, double-click on the identifier next to `ribs_on_menus` tag.
 
 For steps 8 and 9, follow along in the [Notifications] post of the PicoStack blog.
+
+For step 10, click on the gear icon (upper right corner) to see the Settings page, and then turn on morning notification.
