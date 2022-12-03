@@ -25,6 +25,6 @@ URL box in the "Install Ruleset" section of the "Rulesets" tab of the developer 
 
 For step 6, find the channel on the "Channels" tab of the developer UI, double-click on the identifier next to `ribs_on_menus` tag.
 
-For steps 8 and 9, follow along in the [Notifications] post of the PicoStack blog.
+For steps 8 and 9, follow along in the [Notifications](https://picostack.blogspot.com/2022/12/notifications.html) post of the PicoStack blog.
 
 For step 10, click on the gear icon (upper right corner) to see the Settings page, and then turn on morning notification.
